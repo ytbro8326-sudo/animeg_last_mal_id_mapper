@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "serial_no": 398,
+    "title": "Zero no Tsukaima",
+    "alternate_title": "The Familiar of Zero,Zero's Familiar,ゼロの使い魔",
+    "url": "https://www.animegg.org/series/zero-no-tsukaima",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Magic",
+      "Ecchi",
+      "Comedy",
+      "School",
+      "Romance",
+      "Harem"
+    ],
+    "description": "Louise is a magician at the Tristein Academy, dubbed with the nickname \"Zero Louise\" due to her inability to effectively use her magic properly, resulting in zero successes. An upcoming test at her...",
+    "mal_id": 1195,
+    "mal_title": "Zero no Tsukaima",
+    "mal_url": "https://myanimelist.net/anime/1195",
+    "mal_matched_via": "Zero no Tsukaima",
+    "sub_dub_status": "dubbed"
+  }
+]
