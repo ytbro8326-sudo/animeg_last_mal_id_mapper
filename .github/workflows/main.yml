@@ -1,0 +1,67 @@
+name: MAL ID Mapper
+
+# Manual trigger only. Pick "range" to process a specific serial_no
+# window (start/end), or "all" to walk the entire dataset. Progress is
+# committed & pushed back to this repo every COMMIT_EVERY entries, and
+# is resumable: re-running the workflow will skip anything already
+# present in all.json.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Processing mode"
+        required: true
+        default: "range"
+        type: choice
+        options:
+          - range
+          - all
+      start:
+        description: "Start serial_no (only used when mode = range)"
+        required: false
+        default: "1282"
+      end:
+        description: "End serial_no (only used when mode = range)"
+        required: false
+        default: "1282"
+
+permissions:
+  contents: write
+
+# Prevent two runs from racing to push at the same time.
+concurrency:
+  group: mal-id-mapper
+  cancel-in-progress: false
+
+jobs:
+  map:
+    runs-on: ubuntu-latest
+    # GitHub-hosted runners cap out at 6h (360 min) per job. "all" mode
+    # on a large dataset with the default 2s per-request delay can take
+    # longer than that — if the job gets cut off mid-way, the last
+    # checkpoint is already committed, so just re-run the workflow with
+    # the same "all" mode and it will resume where it left off.
+    timeout-minutes: 350
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Run MAL ID mapper
+        env:
+          MODE: ${{ github.event.inputs.mode }}
+          START: ${{ github.event.inputs.start }}
+          END: ${{ github.event.inputs.end }}
+          GIT_PUSH: "true"
+          COMMIT_EVERY: "100"
+        run: python mal_id_mapper.py
