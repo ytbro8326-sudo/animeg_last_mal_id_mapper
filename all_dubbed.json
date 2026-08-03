@@ -376,5 +376,25 @@
     "mal_url": "https://myanimelist.net/anime/210",
     "mal_matched_via": "Ranma ½",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4177,
+    "title": "Boku no Hero Academia 6th Season (Dub)",
+    "alternate_title": "My Hero Academia Season 6, 僕のヒーローアカデミア 6th Season",
+    "url": "https://www.animegg.org/series/boku-no-hero-academia-6th-season-dub",
+    "episode_count": 25,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Super Power",
+      "Shounen",
+      "School"
+    ],
+    "description": "Sixth season of Boku no Hero Academia.",
+    "mal_id": 36456,
+    "mal_title": "Boku no Hero Academia 3rd Season",
+    "mal_url": "https://myanimelist.net/anime/36456",
+    "mal_matched_via": "Boku no Hero Academia 6th Season (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
