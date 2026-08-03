@@ -629,5 +629,62 @@
     "mal_url": "https://myanimelist.net/anime/32818",
     "mal_matched_via": "Xiong Chumo Zhi: Huanqiu Da Maoxian (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5034,
+    "title": "Xi Yangyang Yu Hui Tailang: Yangyang Kuaile De Yi Nian (Dub)",
+    "alternate_title": "Pleasant Goat and Big Big Wolf 3rd Season, 喜羊羊與灰太狼之羊羊快樂的一年",
+    "url": "https://www.animegg.org/series/xi-yangyang-yu-hui-tailang-yangyang-kuaile-de-yi-nian-dub",
+    "episode_count": 100,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Kids"
+    ],
+    "description": "No synopsis information has been added to this title. Help improve our database by adding a synopsis",
+    "mal_id": 44005,
+    "mal_title": "Xi Yangyang Yu Hui Tailang: Yangyang Deyi Xi Yangyang",
+    "mal_url": "https://myanimelist.net/anime/44005",
+    "mal_matched_via": "Xi Yangyang Yu Hui Tailang: Yangyang Kuaile De Yi Nian (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5044,
+    "title": "Saint Seiya (Dub)",
+    "alternate_title": "Knights Of The Zodiac, Zodiac Knights, 聖闘士星矢(セイントセイヤ)",
+    "url": "https://www.animegg.org/series/saint-seiya-dub",
+    "episode_count": 114,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Fantasy",
+      "Shounen"
+    ],
+    "description": "In ancient times, a group of young men devoted their lives to protecting Athena, the Goddess of Wisdom and War. These men were capable of fighting without weapons—a swing of their fist alone was...",
+    "mal_id": 1254,
+    "mal_title": "Saint Seiya",
+    "mal_url": "https://myanimelist.net/anime/1254",
+    "mal_matched_via": "Saint Seiya (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5100,
+    "title": "Xiong Chumo (Dub)",
+    "alternate_title": "Boonie Bears, 熊出沒",
+    "url": "https://www.animegg.org/series/xiong-chumo-dub",
+    "episode_count": 104,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Kids"
+    ],
+    "description": "Set in an untouched forest, Boonie Bears tells a story of two brave and mighty bears who try to protect their homeland from the destruction of a sly and persistent woodman. In this war between bears...",
+    "mal_id": 32807,
+    "mal_title": "Xiong Chumo",
+    "mal_url": "https://myanimelist.net/anime/32807",
+    "mal_matched_via": "Xiong Chumo (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
