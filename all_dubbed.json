@@ -396,5 +396,24 @@
     "mal_url": "https://myanimelist.net/anime/36456",
     "mal_matched_via": "Boku no Hero Academia 6th Season (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4283,
+    "title": "Ore dake Level Up na Ken (Korean Dub)",
+    "alternate_title": "olo Leveling, Na Honjaman Level Up, I Level Up Alone, 나 혼자만 레벨업, 俺だけレベルアップな件",
+    "url": "https://www.animegg.org/series/ore-dake-level-up-na-ken-korean-dub",
+    "episode_count": 6,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "Ten years ago, \"the Gate\" appeared and connected the real world with the realm of magic and monsters. To combat these vile beasts, ordinary people received superhuman powers and became known as...",
+    "mal_id": 736,
+    "mal_title": "Keiraku no Houteishiki Level-C",
+    "mal_url": "https://myanimelist.net/anime/736",
+    "mal_matched_via": "Ore dake Level Up na Ken (Korean Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
