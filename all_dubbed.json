@@ -45,5 +45,27 @@
     "mal_url": "https://myanimelist.net/anime/1735",
     "mal_matched_via": "Naruto Shippuden (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 1329,
+    "title": "Paranoia Agent",
+    "alternate_title": "Mousou Dairinin, 妄想代理人",
+    "url": "https://www.animegg.org/series/paranoia-agent",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Supernatural",
+      "Mystery",
+      "Psychological",
+      "Thriller",
+      "Police"
+    ],
+    "description": "An elementary school kid dubbed with the title \"shounen bat\" or \"lil slugger\" has been going around attacking people with his bent, golden bat. Now, two detectives are investigating so they can stop...",
+    "mal_id": 323,
+    "mal_title": "Mousou Dairinin",
+    "mal_url": "https://myanimelist.net/anime/323",
+    "mal_matched_via": "Mousou Dairinin",
+    "sub_dub_status": "dubbed"
   }
 ]
