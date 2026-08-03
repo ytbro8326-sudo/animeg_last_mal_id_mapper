@@ -189,5 +189,42 @@
     "mal_url": "https://myanimelist.net/anime/1735",
     "mal_matched_via": "Naruto: Shippuuden Movie 1 (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3347,
+    "title": "Tonikaku Kawaii 2nd Season (Dub)",
+    "alternate_title": "TONIKAWA: Over The Moon For You Season 2, トニカクカワイイ",
+    "url": "https://www.animegg.org/series/tonikaku-kawaii-2nd-season-dub",
+    "episode_count": 11,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy",
+      "Shounen",
+      "Romance"
+    ],
+    "description": "Second season of Tonikaku Kawaii.",
+    "mal_id": 41389,
+    "mal_title": "Tonikaku Kawaii",
+    "mal_url": "https://myanimelist.net/anime/41389",
+    "mal_matched_via": "Tonikaku Kawaii 2nd Season (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3352,
+    "title": "Kanojo ga Koushaku-tei ni Itta Riyuu (Dub)",
+    "alternate_title": "The Reason Why Raeliana Ended up at the Duke's Mansion, 그녀가 공작저로 가야 했던 사정",
+    "url": "https://www.animegg.org/series/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub",
+    "episode_count": 10,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "description": "When Park Eunha dies in modern-day Korea, she awakens in the body of Raeliana McMillan, the eldest daughter of a nouveaux riche baron. However, this is no ordinary world; it's the exact same one as a...",
+    "mal_id": 52308,
+    "mal_title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+    "mal_url": "https://myanimelist.net/anime/52308",
+    "mal_matched_via": "Kanojo ga Koushaku-tei ni Itta Riyuu (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
