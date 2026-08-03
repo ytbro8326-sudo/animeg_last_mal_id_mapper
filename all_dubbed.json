@@ -11180,5 +11180,157 @@
     "mal_url": "https://myanimelist.net/anime/49275",
     "mal_matched_via": "Renou Xueyuan",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8712,
+    "title": "Aggressive Retsuko (ONA) 5th Season (Dub)",
+    "alternate_title": "Aggretsuko (ONA) 5th Season, グレッシブ烈子",
+    "url": "https://www.animegg.org/series/aggressive-retsuko-ona-5th-season-dub",
+    "episode_count": 10,
+    "status": "Completed",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Fifth season of Aggressive Retsuko.",
+    "mal_id": 37985,
+    "mal_title": "Aggressive Retsuko (ONA) 2nd Season",
+    "mal_url": "https://myanimelist.net/anime/37985",
+    "mal_matched_via": "Aggressive Retsuko (ONA) 5th Season (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8728,
+    "title": "Pacific Rim: The Black Season 2 (Dub)",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/pacific-rim-the-black-season-2-dub",
+    "episode_count": 7,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Adventure"
+    ],
+    "description": "",
+    "mal_id": 40028,
+    "mal_title": "Shingeki no Kyojin: The Final Season",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_matched_via": "Pacific Rim: The Black Season 2 (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8753,
+    "title": "Transformers: War for Cybertron Season 3 (Dub)",
+    "alternate_title": "Transformers: War For Cybertron Trilogy",
+    "url": "https://www.animegg.org/series/transformers-war-for-cybertron-season-3-dub",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Dub"
+    ],
+    "description": "Animated series set in the world of battling Autobots and Decepticons.",
+    "mal_id": 928,
+    "mal_title": "Transformers Galaxy Force",
+    "mal_url": "https://myanimelist.net/anime/928",
+    "mal_matched_via": "Transformers: War for Cybertron Season 3 (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8765,
+    "title": "One Piece Movie 14: Stampede (Dub)",
+    "alternate_title": "劇場版『ONE PIECE STAMPEDE』（スタンピード）",
+    "url": "https://www.animegg.org/series/one-piece-movie-14-stampede-dub",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Super Power",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "The world's greatest exposition of the pirates, by the pirates, for the pirates—the Pirates Festival. Luffy and the rest of the Straw Hat Crew receive an invitation from its host Buena Festa who is...",
+    "mal_id": 38234,
+    "mal_title": "One Piece Movie 14: Stampede",
+    "mal_url": "https://myanimelist.net/anime/38234",
+    "mal_matched_via": "One Piece Movie 14: Stampede (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8766,
+    "title": "One Piece Film: Red (Dub)",
+    "alternate_title": "One Piece Movie 15",
+    "url": "https://www.animegg.org/series/one-piece-film-red-dub",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [],
+    "description": "As a child, Uta—the Red Hair Pirates' ex-musician and Monkey D. Luffy's childhood friend—promised that she would build a new era of freedom by performing joyful music for the world.\r\nLuffy and the...",
+    "mal_id": 12859,
+    "mal_title": "One Piece Film: Z",
+    "mal_url": "https://myanimelist.net/anime/12859",
+    "mal_matched_via": "One Piece Film: Red (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8778,
+    "title": "Magic User's Club OVA (Dub)",
+    "alternate_title": "Mahoutsukai Tai! OVA, 魔法使いTai!",
+    "url": "https://www.animegg.org/series/magic-user-s-club-ova-dub",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi",
+      "Fantasy",
+      "Magic",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "One sunny day invaders came from space. They weren't little green men or funny girls wearing school uniforms, though. They were ugly robots which defeated the UN forces in seconds. After that the...",
+    "mal_id": 630,
+    "mal_title": "Mahoutsukai Tai! (TV)",
+    "mal_url": "https://myanimelist.net/anime/630",
+    "mal_matched_via": "Magic User's Club OVA (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8779,
+    "title": "Queen's Blade: Utsukushiki Toushi-tachi (Dub)",
+    "alternate_title": "Queen's Blade: Beautiful Warriors, クイーンズブレイド 美しき闘士たち",
+    "url": "https://www.animegg.org/series/queen-s-blade-utsukushiki-toushi-tachi-dub",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Ecchi"
+    ],
+    "description": "Queen's Blade OVA. Contains short stories from the lives of the warriors after the Queen's Blade competition.",
+    "mal_id": 8456,
+    "mal_title": "Queen's Blade: Utsukushiki Toushi-tachi",
+    "mal_url": "https://myanimelist.net/anime/8456",
+    "mal_matched_via": "Queen's Blade: Utsukushiki Toushi-tachi (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8782,
+    "title": "Laputa: Castle in the Sky (Dub)",
+    "alternate_title": "Tenkuu no Shiro Laputa, 天空の城ラピュタ",
+    "url": "https://www.animegg.org/series/laputa-castle-in-the-sky-dub",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "description": "This high-flying adventure begins when Pazu, an engineer's apprentice, finds a young girl, Sheeta, floating down from the sky wearing a glowing pendant. Together they discover both are searching for a...",
+    "mal_id": 513,
+    "mal_title": "Tenkuu no Shiro Laputa",
+    "mal_url": "https://myanimelist.net/anime/513",
+    "mal_matched_via": "Tenkuu no Shiro Laputa",
+    "sub_dub_status": "dubbed"
   }
 ]
