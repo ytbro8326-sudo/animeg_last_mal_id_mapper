@@ -168,5 +168,26 @@
     "mal_url": "https://myanimelist.net/anime/3305",
     "mal_matched_via": "Muteki Koujin Daitarn 3",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 2987,
+    "title": "Naruto: Shippuuden Movie 1 (Dub)",
+    "alternate_title": "Naruto: Shippuden the Movie, 劇場版NARUTO -ナルト- 疾風伝",
+    "url": "https://www.animegg.org/series/naruto-shippuuden-movie-1-dub",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "A group of ninja is planning to revive a powerful demon, and once its spirit is reunited with its body, the world will be destroyed. The only way to prevent this from happening is for Shion, a shrine...",
+    "mal_id": 1735,
+    "mal_title": "Naruto: Shippuuden",
+    "mal_url": "https://myanimelist.net/anime/1735",
+    "mal_matched_via": "Naruto: Shippuuden Movie 1 (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
