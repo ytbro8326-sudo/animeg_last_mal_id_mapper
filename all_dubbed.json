@@ -497,5 +497,26 @@
     "mal_url": "https://myanimelist.net/anime/34420",
     "mal_matched_via": "Yeosin Gangnim (Japanese Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4519,
+    "title": "Haikyuu!! Second Season (Dub)",
+    "alternate_title": "Haikyu!! 2nd Season, ハイキュー!! セカンドシーズン",
+    "url": "https://www.animegg.org/series/haikyuu-second-season-dub",
+    "episode_count": 25,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Shounen",
+      "School",
+      "Sports"
+    ],
+    "description": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead. \r\nWhen they receive an...",
+    "mal_id": 28891,
+    "mal_title": "Haikyuu!! Second Season",
+    "mal_url": "https://myanimelist.net/anime/28891",
+    "mal_matched_via": "Haikyuu!! Second Season (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
