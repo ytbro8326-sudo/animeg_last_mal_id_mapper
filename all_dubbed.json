@@ -964,5 +964,47 @@
     "mal_url": "https://myanimelist.net/anime/36993",
     "mal_matched_via": "Galactik Football (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5806,
+    "title": "Zoids (Dub)",
+    "alternate_title": "ゾイド",
+    "url": "https://www.animegg.org/series/zoids-dub",
+    "episode_count": 67,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Zoids are beast-like fighting machines used in both everyday use such as transportation, and special use such as war. Some types of Zoids, know as Organoids, are miniature Zoids that are living...",
+    "mal_id": 763,
+    "mal_title": "Zoids",
+    "mal_url": "https://myanimelist.net/anime/763",
+    "mal_matched_via": "Zoids (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5850,
+    "title": "Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou (Dub)",
+    "alternate_title": "Haikyu!! 3rd Season, ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
+    "url": "https://www.animegg.org/series/haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-dub",
+    "episode_count": 10,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Shounen",
+      "School",
+      "Sports"
+    ],
+    "description": "After the victory against Aoba Jousai High, Karasuno High School, once called “a fallen powerhouse, a crow that can’t fly,” has finally reached the climax of the heated Spring tournament. Now, to...",
+    "mal_id": 32935,
+    "mal_title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+    "mal_url": "https://myanimelist.net/anime/32935",
+    "mal_matched_via": "Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
