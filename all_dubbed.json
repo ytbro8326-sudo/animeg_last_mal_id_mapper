@@ -518,5 +518,23 @@
     "mal_url": "https://myanimelist.net/anime/28891",
     "mal_matched_via": "Haikyuu!! Second Season (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4695,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu (Dub)",
+    "alternate_title": "Re:ZERO -Starting Life in Another World-, Re：ゼロから始める異世界生活",
+    "url": "https://www.animegg.org/series/rezero-kara-hajimeru-isekai-seikatsu-dub",
+    "episode_count": 25,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "description": "Natsuki Subaru is an ordinary high school student who is lost in an alternate world, where he is rescued by a beautiful, silver-haired girl. He stays near her to return the favour, but the destiny she...",
+    "mal_id": 31240,
+    "mal_title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "mal_url": "https://myanimelist.net/anime/31240",
+    "mal_matched_via": "Re:Zero kara Hajimeru Isekai Seikatsu (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
