@@ -356,5 +356,25 @@
     "mal_url": "https://myanimelist.net/anime/61663",
     "mal_matched_via": "In the Clear Moonlit Dusk (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3838,
+    "title": "Ranma ½ (Dub)",
+    "alternate_title": "Ranma ½, らんま1/2",
+    "url": "https://www.animegg.org/series/ranma-dub",
+    "episode_count": 161,
+    "status": "Completed",
+    "genres": [
+      "Martial Arts",
+      "Fantasy",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "description": "Ranma Saotome and his father, Genma, both practitioners of the Saotome school of anything-goes martial arts, fall into the cursed springs of the legendary training ground of Jusenkyo in mainland China...",
+    "mal_id": 210,
+    "mal_title": "Ranma ½",
+    "mal_url": "https://myanimelist.net/anime/210",
+    "mal_matched_via": "Ranma ½",
+    "sub_dub_status": "dubbed"
   }
 ]
