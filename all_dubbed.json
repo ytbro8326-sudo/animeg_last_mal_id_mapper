@@ -129,5 +129,26 @@
     "mal_url": "https://myanimelist.net/anime/40351",
     "mal_matched_via": "Pokemon (2019)(Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 2552,
+    "title": "Naruto (Dub)",
+    "alternate_title": "ナルト",
+    "url": "https://www.animegg.org/series/naruto-dub",
+    "episode_count": 220,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Martial Arts",
+      "Super Power",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked...",
+    "mal_id": 1735,
+    "mal_title": "Naruto: Shippuuden",
+    "mal_url": "https://myanimelist.net/anime/1735",
+    "mal_matched_via": "Naruto (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
