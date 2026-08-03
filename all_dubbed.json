@@ -945,5 +945,24 @@
     "mal_url": "https://myanimelist.net/anime/33670",
     "mal_matched_via": "Xingji Biaoche Wang (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5758,
+    "title": "Galactik Football (Dub)",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/galactik-football-dub",
+    "episode_count": 78,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Sports"
+    ],
+    "description": "",
+    "mal_id": 36993,
+    "mal_title": "Chao Zhi Neng Zu Qiu",
+    "mal_url": "https://myanimelist.net/anime/36993",
+    "mal_matched_via": "Galactik Football (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
