@@ -1124,5 +1124,125 @@
     "mal_url": "https://myanimelist.net/anime/31933",
     "mal_matched_via": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 6103,
+    "title": "Mairimashita! Iruma-kun 3rd Season (Dub)",
+    "alternate_title": "Welcome to Demon School! Iruma-kun Season 3, 魔入りました！入間くん",
+    "url": "https://www.animegg.org/series/mairimashita-iruma-kun-3rd-season-dub",
+    "episode_count": 21,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Shounen",
+      "School",
+      "Mythology",
+      "Isekai"
+    ],
+    "description": "This time it's the jungle!\r\nHuman boy Suzuki Iruma becomes \"grandson\" to the great demon Sullivan and begins attending demon school where \"Grandpa\" serves as chair. Winning friends—and rising in demon...",
+    "mal_id": 41402,
+    "mal_title": "Mairimashita! Iruma-kun 2nd Season",
+    "mal_url": "https://myanimelist.net/anime/41402",
+    "mal_matched_via": "Mairimashita! Iruma-kun 3rd Season (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 6126,
+    "title": "Xi Yangyang Yu Hui Tailang: Yang Cun Shouhuzhe (Dub)",
+    "alternate_title": "喜羊羊與灰太狼之羊村守護者, Pleasant Goat and Big Big Wolf: Mighty Little Defenders",
+    "url": "https://www.animegg.org/series/xi-yangyang-yu-hui-tailang-yang-cun-shouhuzhe-dub",
+    "episode_count": 59,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Kids"
+    ],
+    "description": "No synopsis information has been added to this title. Help improve our database by adding a synopsis",
+    "mal_id": 43999,
+    "mal_title": "Xi Yangyang Yu Hui Tailang: Yang Cun Shouhuzhe",
+    "mal_url": "https://myanimelist.net/anime/43999",
+    "mal_matched_via": "Xi Yangyang Yu Hui Tailang: Yang Cun Shouhuzhe (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 6134,
+    "title": "Baki the Grappler (Dub)",
+    "alternate_title": "Grappler Baki (TV), グラップラー刃牙",
+    "url": "https://www.animegg.org/series/baki-the-grappler-dub",
+    "episode_count": 24,
+    "status": "Completed",
+    "genres": [
+      "Shounen",
+      "Sports"
+    ],
+    "description": "Baki Hanma is a young fighter who yearns to follow in the footsteps of his father, Yujiro, and become the strongest fighter in the world. Through that he trains tirelessly and fights constantly to...",
+    "mal_id": 287,
+    "mal_title": "Grappler Baki (TV)",
+    "mal_url": "https://myanimelist.net/anime/287",
+    "mal_matched_via": "Grappler Baki (TV)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 6141,
+    "title": "Zinba (Dub)",
+    "alternate_title": "Zinba Monsters, 神魄",
+    "url": "https://www.animegg.org/series/zinba-dub",
+    "episode_count": 52,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Demons",
+      "Magic",
+      "Super Power",
+      "Comedy"
+    ],
+    "description": "The juvenile Kan from the earth is summoned to the Kingdom of Toria , where he encounters attack from the giant creature Zinba, and he's rescued by the linker Shibuki and Uranus. Later, he...",
+    "mal_id": 31427,
+    "mal_title": "Zinba",
+    "mal_url": "https://myanimelist.net/anime/31427",
+    "mal_matched_via": "Zinba (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 6150,
+    "title": "JoJo's Bizarre Adventure (2012) (Dub)",
+    "alternate_title": "ジョジョの奇妙な冒険",
+    "url": "https://www.animegg.org/series/jojo-s-bizarre-adventure-2012-dub",
+    "episode_count": 26,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural",
+      "Shounen"
+    ],
+    "description": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the...",
+    "mal_id": 14719,
+    "mal_title": "JoJo no Kimyou na Bouken (TV)",
+    "mal_url": "https://myanimelist.net/anime/14719",
+    "mal_matched_via": "JoJo's Bizarre Adventure (2012) (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 6181,
+    "title": "Hana Yori Dango (Dub)",
+    "alternate_title": "HYD, 花より男子",
+    "url": "https://www.animegg.org/series/hana-yori-dango-dub",
+    "episode_count": 51,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "School",
+      "Romance"
+    ],
+    "description": "Makino Tsukushi, a girl who comes from a poor family, just wants to get through her two last years at Eitoku Gakuen quietly. But once she makes herself known by standing up for her friend to the F...",
+    "mal_id": 106,
+    "mal_title": "Hana yori Dango",
+    "mal_url": "https://myanimelist.net/anime/106",
+    "mal_matched_via": "Hana Yori Dango (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
