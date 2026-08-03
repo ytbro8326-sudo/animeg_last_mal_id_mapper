@@ -765,5 +765,25 @@
     "mal_url": "https://myanimelist.net/anime/9032",
     "mal_matched_via": "Inazuma Eleven (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5346,
+    "title": "Kagaku Ninja-tai Gatchaman (Dub)",
+    "alternate_title": "Gatchaman, 科学忍者隊ガッチャマン",
+    "url": "https://www.animegg.org/series/kagaku-ninja-tai-gatchaman-dub",
+    "episode_count": 105,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "Shounen"
+    ],
+    "description": "Due to dangers of decreasing resources and growing pollution, the International Scientific Organization (ISO) is established to improve environmental conditions throughout the world. But an...",
+    "mal_id": 3154,
+    "mal_title": "Gatchaman",
+    "mal_url": "https://myanimelist.net/anime/3154",
+    "mal_matched_via": "Gatchaman",
+    "sub_dub_status": "dubbed"
   }
 ]
