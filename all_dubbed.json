@@ -23,5 +23,27 @@
     "mal_url": "https://myanimelist.net/anime/1195",
     "mal_matched_via": "Zero no Tsukaima",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 1072,
+    "title": "Naruto Shippuden (Dub)",
+    "alternate_title": "Naruto Hurricane Chronicles, ナルト- 疾風伝",
+    "url": "https://www.animegg.org/series/naruto-shippuden-dub",
+    "episode_count": 500,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Martial Arts",
+      "Super Power",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the...",
+    "mal_id": 1735,
+    "mal_title": "Naruto: Shippuuden",
+    "mal_url": "https://myanimelist.net/anime/1735",
+    "mal_matched_via": "Naruto Shippuden (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
