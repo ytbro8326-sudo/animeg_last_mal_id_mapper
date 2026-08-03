@@ -457,5 +457,45 @@
     "mal_url": "https://myanimelist.net/anime/48316",
     "mal_matched_via": "Kage no Jitsuryokusha ni Naritakute! (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4406,
+    "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu (Dub)",
+    "alternate_title": "Otomege Sekai wa Mob ni Kibishii Sekai desu, Mobseka, 乙女ゲー世界はモブに厳しい世界です, Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+    "url": "https://www.animegg.org/series/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Mecha",
+      "Fantasy",
+      "School",
+      "Romance",
+      "Harem"
+    ],
+    "description": "Office worker Leon is reincarnated into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he...",
+    "mal_id": 50461,
+    "mal_title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+    "mal_url": "https://myanimelist.net/anime/50461",
+    "mal_matched_via": "Otome Game Sekai wa Mob ni Kibishii Sekai desu (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4484,
+    "title": "Yeosin Gangnim (Japanese Dub)",
+    "alternate_title": "True Beauty, 여신강림",
+    "url": "https://www.animegg.org/series/yeosin-gangnim-japanese-dub",
+    "episode_count": 8,
+    "status": "Ongoing",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "",
+    "mal_id": 34420,
+    "mal_title": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
+    "mal_url": "https://myanimelist.net/anime/34420",
+    "mal_matched_via": "Yeosin Gangnim (Japanese Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
