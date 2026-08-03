@@ -76847,5 +76847,1924 @@
     "mal_url": "https://myanimelist.net/anime/10218",
     "mal_matched_via": "Berserk: Ougon Jidaihen I (fallback: top result)",
     "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3901,
+    "title": "Rokudou no Onna-tachi",
+    "alternate_title": "六道の悪女〈おんな〉たち, Rokudo's Bad Girls",
+    "url": "https://www.animegg.org/series/rokudou-no-onna-tachi",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Tousuke Rokudou is a first-year attending Aomori High, a school full of delinquents. He is often bullied by his classmates due to his incompatibility with their behavior, the only exceptions being his...",
+    "mal_id": 54259,
+    "mal_title": "Rokudou no Onna-tachi",
+    "mal_url": "https://myanimelist.net/anime/54259",
+    "mal_matched_via": "Rokudou no Onna-tachi",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3902,
+    "title": "Buddy Daddies",
+    "alternate_title": "N/A",
+    "url": "https://www.animegg.org/series/buddy-daddies",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy",
+      "Organized Crime",
+      "Childcare"
+    ],
+    "description": "Two professional contract criminals are up for their biggest mission yet: taking care of a child!",
+    "mal_id": 53411,
+    "mal_title": "Buddy Daddies",
+    "mal_url": "https://myanimelist.net/anime/53411",
+    "mal_matched_via": "Buddy Daddies",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3903,
+    "title": "Lapis Re:LiGHTs",
+    "alternate_title": "ラピスリライツ",
+    "url": "https://www.animegg.org/series/lapis-relights",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Music"
+    ],
+    "description": "Based on a mixed media project that blends fantasy, magical girl, and idol elements, Lapis Re:LiGHTs will follow a group of students as they train to become idols. Together, they'll use the magic of...",
+    "mal_id": 37587,
+    "mal_title": "Lapis Re:LiGHTs",
+    "mal_url": "https://myanimelist.net/anime/37587",
+    "mal_matched_via": "Lapis Re:LiGHTs",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3904,
+    "title": "Ayakashi Triangle",
+    "alternate_title": "あやかしトライアングル",
+    "url": "https://www.animegg.org/series/ayakashi-triangle",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Supernatural",
+      "Comedy",
+      "Shounen",
+      "Romance",
+      "Mythology",
+      "Magical Sex Shift"
+    ],
+    "description": "Matsuri Kazamaki and Suzu Kanade are childhood friends, bonded by their shared ability to see ayakashi—youkai in search of a life force to devour. However, in high school, their relationship...",
+    "mal_id": 50606,
+    "mal_title": "Ayakashi Triangle",
+    "mal_url": "https://myanimelist.net/anime/50606",
+    "mal_matched_via": "Ayakashi Triangle",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3905,
+    "title": "Baki Hanma: Son of Ogre",
+    "alternate_title": "The Boy Fascinating the Fighting God",
+    "url": "https://www.animegg.org/series/baki-hanma-son-of-ogre",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Martial Arts"
+    ],
+    "description": "Third part of the Baki series.",
+    "mal_id": 42940,
+    "mal_title": "Hanma Baki: Son of Ogre",
+    "mal_url": "https://myanimelist.net/anime/42940",
+    "mal_matched_via": "Baki Hanma: Son of Ogre (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3906,
+    "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+    "alternate_title": "cience Fell in Love, So I Tried to Prove It r=1-sinθ, Science Fell in Love, So I Tried to Prove It 2nd Season, Rikekoi, Rikei ga Koi ni Ochita no de Shoumei shitemita. r=1-sinθ",
+    "url": "https://www.animegg.org/series/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "description": "Second season of Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+    "mal_id": 43470,
+    "mal_title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+    "mal_url": "https://myanimelist.net/anime/43470",
+    "mal_matched_via": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3907,
+    "title": "Mecha-ude (TV)",
+    "alternate_title": "Mecha-Ude: Mechanical Arms, メカウデ",
+    "url": "https://www.animegg.org/series/mecha-ude-tv",
+    "episode_count": 8,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "description": "",
+    "mal_id": 53033,
+    "mal_title": "Mecha-ude (TV)",
+    "mal_url": "https://myanimelist.net/anime/53033",
+    "mal_matched_via": "Mecha-ude (TV)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3908,
+    "title": "Iya na Kao sare nagara Opantsu Misete Moraitai 2",
+    "alternate_title": "I Want You To Make a Disgusted Face and Show Me Your Underwear 2",
+    "url": "https://www.animegg.org/series/iya-na-kao-sare-nagara-opantsu-misete-moraitai-2",
+    "episode_count": 6,
+    "status": "Ongoing",
+    "genres": [
+      "Ecchi"
+    ],
+    "description": "2nd season of Iya na Kao sare nagara Opantsu Misete Moraitai",
+    "mal_id": 38163,
+    "mal_title": "Iya na Kao sare nagara Opantsu Misete Moraitai 2",
+    "mal_url": "https://myanimelist.net/anime/38163",
+    "mal_matched_via": "Iya na Kao sare nagara Opantsu Misete Moraitai 2",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3909,
+    "title": "Youkai Gakkou no Sensei Hajimemashita!",
+    "alternate_title": "A Terrified Teacher at Ghoul School!, I Started Being a Teacher for a Youkai School!, Yohaji, 妖怪学校の先生はじめました",
+    "url": "https://www.animegg.org/series/youkai-gakkou-no-sensei-hajimemashita",
+    "episode_count": 17,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "description": "Rookie teacher Haruaki Abe is as cowardly as they come. It’s hard enough for him to handle human students without whimpering-and now he’s going to be teaching at a school full of monsters?! It’s a...",
+    "mal_id": 57533,
+    "mal_title": "Youkai Gakkou no Sensei Hajimemashita!",
+    "mal_url": "https://myanimelist.net/anime/57533",
+    "mal_matched_via": "Youkai Gakkou no Sensei Hajimemashita!",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3910,
+    "title": "Dragon Ball Z Movie 05: Cooler's Revenge",
+    "alternate_title": "Dragon Ball Z Movie 05: Tobikkiri no Saikyou Tai Saikyou, ドラゴンボールZ とびっきりの最強対最強",
+    "url": "https://www.animegg.org/series/dragon-ball-z-movie-05-coolers-revenge",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "After defeating Frieza, Goku returns to Earth and goes on a camping trip with Gohan and Krillin. Everything is normal until Cooler - Frieza's brother - sends three henchmen after Goku. A long fight...",
+    "mal_id": 898,
+    "mal_title": "Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou",
+    "mal_url": "https://myanimelist.net/anime/898",
+    "mal_matched_via": "Dragon Ball Z Movie 05: Tobikkiri no Saikyou Tai Saikyou",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3911,
+    "title": "Kuroko no Basket: Tip Off",
+    "alternate_title": "Kuroko's Basketball Special，Kuroko no Basket Special, Kuroko no Basket Episode 22.5 ，黒子のバスケ 第22.5Q 「Tip off」",
+    "url": "https://www.animegg.org/series/kuroko-no-basket-tip-off",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Shounen",
+      "School",
+      "Sports"
+    ],
+    "description": "Episode 22.5 bundled with BD/DVD volume 8.\r\nThe episode covers Kuroko's past, when he was part of the \"Generation of Miracles\".",
+    "mal_id": 16916,
+    "mal_title": "Kuroko no Basket: Tip Off",
+    "mal_url": "https://myanimelist.net/anime/16916",
+    "mal_matched_via": "Kuroko no Basket: Tip Off",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3912,
+    "title": "Shingeki no Kyojin: Chronicle",
+    "alternate_title": "Attack on Titan: Chronicle",
+    "url": "https://www.animegg.org/series/shingeki-no-kyojin-chronicle",
+    "episode_count": 1,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Military",
+      "Super Power",
+      "Shounen",
+      "Mystery"
+    ],
+    "description": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
+    "mal_id": 42091,
+    "mal_title": "Shingeki no Kyojin: Chronicle",
+    "mal_url": "https://myanimelist.net/anime/42091",
+    "mal_matched_via": "Shingeki no Kyojin: Chronicle",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3913,
+    "title": "Steins;Gate: Sōmei Eichi no Cognitive Computing",
+    "alternate_title": "teins;Gate 聡明叡智のコグニティブ・コンピューティング",
+    "url": "https://www.animegg.org/series/steins-gate-s-mei-eichi-no-cognitive-computing",
+    "episode_count": 4,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "description": "Anime shorts created in collaboration with IBM.\r\n\r\nEpisode 1: Cooking-hen\r\nEpisode 2: Navigation-hen\r\nEpisode 3: Fashion-hen\r\nEpisode.4: Kaigi-hen",
+    "mal_id": 27957,
+    "mal_title": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+    "mal_url": "https://myanimelist.net/anime/27957",
+    "mal_matched_via": "Steins;Gate: Sōmei Eichi no Cognitive Computing (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3914,
+    "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+    "alternate_title": "最弱テイマーはゴミ拾いの旅を始めました。/ The Weakest Tamer Began a Journey to Pick Up Trash",
+    "url": "https://www.animegg.org/series/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
+    "episode_count": 11,
+    "status": "Ongoing",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Dub",
+      "Reincarnation",
+      "Isekai"
+    ],
+    "description": "In Ivy's world, stars are everything. She's a Tamer, born to subdue monsters and animals, but she was also born starless! With her life in danger, Ivy flees into the forest where she befriends a weak...",
+    "mal_id": 53590,
+    "mal_title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+    "mal_url": "https://myanimelist.net/anime/53590",
+    "mal_matched_via": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3915,
+    "title": "Yuukoku no Moriarty 2nd Season",
+    "alternate_title": "Moriarty the Patriot 2nd Season, Moriarty's Patriotism 2nd Season",
+    "url": "https://www.animegg.org/series/yuukoku-no-moriarty-2nd-season",
+    "episode_count": 13,
+    "status": "Ongoing",
+    "genres": [
+      "Shounen",
+      "Mystery",
+      "Historical",
+      "Psychological"
+    ],
+    "description": "Second half of Youkoku no Moriarty.",
+    "mal_id": 40911,
+    "mal_title": "Yuukoku no Moriarty",
+    "mal_url": "https://myanimelist.net/anime/40911",
+    "mal_matched_via": "Yuukoku no Moriarty 2nd Season (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3916,
+    "title": "Argonavis from BanG Dream!",
+    "alternate_title": "アルゴナビス from BanG Dream!",
+    "url": "https://www.animegg.org/series/argonavis-from-bang-dream",
+    "episode_count": 13,
+    "status": "Ongoing",
+    "genres": [
+      "Music"
+    ],
+    "description": "Ren Nanahoshi is a lonely college student who isn't good at communicating with others. He remembers the thrill of watching a live band perform when he was young, and spent most of his days searching...",
+    "mal_id": 40677,
+    "mal_title": "Argonavis from BanG Dream!",
+    "mal_url": "https://myanimelist.net/anime/40677",
+    "mal_matched_via": "Argonavis from BanG Dream!",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3917,
+    "title": "Tennis no Ouji-sama",
+    "alternate_title": "テニスの王子様, The Prince of Tennis",
+    "url": "https://www.animegg.org/series/tennis-no-ouji-sama-dub",
+    "episode_count": 140,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Shounen",
+      "School",
+      "Sports"
+    ],
+    "description": "At the request of his father, tennis prodigy Ryouma Echizen has returned from America and is ready to take the Japanese tennis scene by storm. Aiming to become the best tennis player in the country...",
+    "mal_id": 21755,
+    "mal_title": "Shin Tennis no Oujisama vs. Genius 10",
+    "mal_url": "https://myanimelist.net/anime/21755",
+    "mal_matched_via": "Tennis no Ouji-sama (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3918,
+    "title": "Free! Eternal Summer Special",
+    "alternate_title": "Free! - Iwatobi Swim Club 2 Special, Free! 2nd Season Special,Free!-Eternal Summer- Extra Fr.",
+    "url": "https://www.animegg.org/series/free-eternal-summer-special",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "School",
+      "Slice of Life",
+      "Sports"
+    ],
+    "description": "Unaired episoded included with volume 7 of the Blu-ray/DVD.",
+    "mal_id": 26213,
+    "mal_title": "Free! Eternal Summer: Kindan no All Hard!",
+    "mal_url": "https://myanimelist.net/anime/26213",
+    "mal_matched_via": "Free! Eternal Summer Special (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3919,
+    "title": "Pokemon: Twilight Wings",
+    "alternate_title": "Hakumei no Tsubasa",
+    "url": "https://www.animegg.org/series/pokemon-twilight-wings",
+    "episode_count": 8,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Kids"
+    ],
+    "description": "Galar is a region where Pokémon battles have developed into a cultural sensation. Over the span of seven episodes, “Pokémon: Twilight Wings” will show in detail the dreams of Galar’s residents, the...",
+    "mal_id": 40861,
+    "mal_title": "Hakumei no Tsubasa",
+    "mal_url": "https://myanimelist.net/anime/40861",
+    "mal_matched_via": "Hakumei no Tsubasa",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3920,
+    "title": "Tono to Issho: Ippunkan Gekijou",
+    "alternate_title": "Tono to Issho TV ,殿といっしょ 1分間劇場",
+    "url": "https://www.animegg.org/series/tono-to-issho",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Seinen",
+      "Samurai"
+    ],
+    "description": "Comedy manga parodying famous samurai generals and historical events.",
+    "mal_id": 8961,
+    "mal_title": "Tono to Issho: Ippunkan Gekijou",
+    "mal_url": "https://myanimelist.net/anime/8961",
+    "mal_matched_via": "Tono to Issho: Ippunkan Gekijou",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3921,
+    "title": "Hajime No Ippo: Champion Road",
+    "alternate_title": "Fighting Spirit: Champion Road, The First Step - Champion Road, はじめの一歩 -Champion Road-",
+    "url": "https://www.animegg.org/series/hajime-no-ippo-champion-road",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Shounen",
+      "Sports"
+    ],
+    "description": "As the new Champion, Ippo must protect his title against some of the best boxers available.\r\nMakunouchi Ippo is the new Featherweight champion of Japan and is now ready for his first title defense...",
+    "mal_id": 264,
+    "mal_title": "Hajime no Ippo: Champion Road",
+    "mal_url": "https://myanimelist.net/anime/264",
+    "mal_matched_via": "Hajime No Ippo: Champion Road",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3922,
+    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "alternate_title": "A Nobody's Way Up to an Exploration Hero LV, モブから始まる探索英雄譚",
+    "url": "https://www.animegg.org/series/mob-kara-hajimaru-tansaku-eiyuutan",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "",
+    "mal_id": 57646,
+    "mal_title": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "mal_url": "https://myanimelist.net/anime/57646",
+    "mal_matched_via": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3923,
+    "title": "Grimms Notes The Animation",
+    "alternate_title": "グリムノーツ",
+    "url": "https://www.animegg.org/series/grimms-notes-the-animation",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Magic"
+    ],
+    "description": "The game takes place in a world created by a beings known as \"Story Tellers.\" At birth, all inhabitants of this world are bestowed with a \"book of fate\" where all their lives are written in advance...",
+    "mal_id": 37154,
+    "mal_title": "Grimms Notes The Animation",
+    "mal_url": "https://myanimelist.net/anime/37154",
+    "mal_matched_via": "Grimms Notes The Animation",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3924,
+    "title": "Dragon, Ie wo Kau.",
+    "alternate_title": "Dragon's House-Hunting, Dragon Goes House-Hunting, DoraIe",
+    "url": "https://www.animegg.org/series/dragon-ie-wo-kau",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "When a dragon fails to live up to the fearsome standards set for him, his family kicks him out. He embarks on a quest to find a new home, but soon finds that life on the road is no place for a...",
+    "mal_id": 40526,
+    "mal_title": "Dragon, Ie wo Kau.",
+    "mal_url": "https://myanimelist.net/anime/40526",
+    "mal_matched_via": "Dragon, Ie wo Kau.",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3925,
+    "title": "Tsuma, Shougakusei ni Naru.",
+    "alternate_title": "小学生になる。; If my wife became an elementary school student., TsumaSho",
+    "url": "https://www.animegg.org/series/tsuma-shougakusei-ni-naru",
+    "episode_count": 9,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy",
+      "Seinen",
+      "Romance",
+      "Reincarnation"
+    ],
+    "description": "Keisuke Niijima lost his beloved wife, Takae, 10 years ago. Since then, he doesn't feel alive and is seen as a gloomy man. The only family Keisuke is left with is his only daughter, Mai. Keisuke wants...",
+    "mal_id": 54726,
+    "mal_title": "Tsuma, Shougakusei ni Naru.",
+    "mal_url": "https://myanimelist.net/anime/54726",
+    "mal_matched_via": "Tsuma, Shougakusei ni Naru.",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3926,
+    "title": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+    "alternate_title": "I'm the Villainess, So I'm Taming the Final Boss",
+    "url": "https://www.animegg.org/series/akuyaku-reijou-nanode-last-boss-wo-kattemimashita",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "Being acutely ill, a young girl has spent most of her life in a hospital room playing otome games to fill her time. However, she one day finds herself in the midst of a scene from one of these games...",
+    "mal_id": 49979,
+    "mal_title": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+    "mal_url": "https://myanimelist.net/anime/49979",
+    "mal_matched_via": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3927,
+    "title": "Yamada-kun to 7-nin no Majo (OVA)",
+    "alternate_title": "Yamada-kun and the Seven Witches OVA, Yamada and the Seven Witches OVA, 山田くんと7人の魔女 OAD,Yamadakun to Nananin no Majo oad",
+    "url": "https://www.animegg.org/series/yamada-kun-to-7-nin-no-majo-ova",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Shounen",
+      "School",
+      "Romance"
+    ],
+    "description": "Shiraishi Urara is the top student in her school. One day, due to an accidental kiss, Urara finds herself in the body of the school delinquent, Yamada Ryuu! In trying to switch back to their own...",
+    "mal_id": 28677,
+    "mal_title": "Yamada-kun to 7-nin no Majo",
+    "mal_url": "https://myanimelist.net/anime/28677",
+    "mal_matched_via": "Yamada-kun to 7-nin no Majo (OVA) (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3928,
+    "title": "Smoking Behind the Supermarket with You",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/smoking-behind-the-supermarket-with-you",
+    "episode_count": 2,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Seinen",
+      "Romance"
+    ],
+    "description": "The sole thing that gets the middle-aged Sasaki through his soul-sucking job is a cheerful smile from Yamada—the young woman who works at a nearby 24-hour supermarket he frequents. After every tiring...",
+    "mal_id": 62076,
+    "mal_title": "Super no Ura de Yani Suu Futari",
+    "mal_url": "https://myanimelist.net/anime/62076",
+    "mal_matched_via": "Smoking Behind the Supermarket with You (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3929,
+    "title": "Earthian",
+    "alternate_title": "アーシアン",
+    "url": "https://www.animegg.org/series/earthian",
+    "episode_count": 4,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Boys Love"
+    ],
+    "description": "Since the beginning of Earth's history, angels from the planet Eden have been carefully monitoring the behavior of its inhabitants, whom they call \"Earthians.\" Chihaya and Kagetsuya are two agents...",
+    "mal_id": 1324,
+    "mal_title": "Earthian",
+    "mal_url": "https://myanimelist.net/anime/1324",
+    "mal_matched_via": "Earthian",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3930,
+    "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/shingeki-no-kyojin-movie-1-guren-no-yumiya",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [],
+    "description": "",
+    "mal_id": 23775,
+    "mal_title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+    "mal_url": "https://myanimelist.net/anime/23775",
+    "mal_matched_via": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3931,
+    "title": "Ah! My Goddess: Itsumo Futari De",
+    "alternate_title": "Ah! My Goddess (2011), Oh! My Goddess (2011), Aa! Megami-sama!: Itsumo Futari de, Aa! Megami-sama! OAD, ああっ女神さまっ",
+    "url": "https://www.animegg.org/series/ah-my-goddess-itsumo-futari-de-ova-2011",
+    "episode_count": 3,
+    "status": "Completed",
+    "genres": [
+      "Magic",
+      "Supernatural",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "Morisato Keiichi is a down on his luck college student. Although possessing a diligent and generous nature, he had the misfortune of being born under an unlucky star. As a result, the current state of...",
+    "mal_id": 50,
+    "mal_title": "Aa! Megami-sama! (TV)",
+    "mal_url": "https://myanimelist.net/anime/50",
+    "mal_matched_via": "Ah! My Goddess: Itsumo Futari De (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3932,
+    "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+    "alternate_title": "Love Live! Nijigasaki High School Idol Club",
+    "url": "https://www.animegg.org/series/love-live-nijigasaki-gakuen-school-idol-doukoukai",
+    "episode_count": 13,
+    "status": "Ongoing",
+    "genres": [
+      "School",
+      "Slice of Life",
+      "Music"
+    ],
+    "description": "Nijigasaki High School is located in Odaiba, Tokyo. The school is popular due to its free school style and diverse majors. The story centers on the members of school idol club in Nijigasaki, and their...",
+    "mal_id": 40879,
+    "mal_title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+    "mal_url": "https://myanimelist.net/anime/40879",
+    "mal_matched_via": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3933,
+    "title": "Shinobi no Ittoki",
+    "alternate_title": "N/A",
+    "url": "https://www.animegg.org/series/shinobi-no-ittoki",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Action"
+    ],
+    "description": "After surviving an attack from the rival Kouga clan, Ittoki Sakuraba, an ordinary boy, discovers that he is the 19th heir of the Iga ninja. Ittoki learns to become an Iga clan ninja and joins the war...",
+    "mal_id": 51098,
+    "mal_title": "Shinobi no Ittoki",
+    "mal_url": "https://myanimelist.net/anime/51098",
+    "mal_matched_via": "Shinobi no Ittoki",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3934,
+    "title": "Kirepapa",
+    "alternate_title": "キレパパ。",
+    "url": "https://www.animegg.org/series/kirepapa",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Yaoi",
+      "Shounen Ai"
+    ],
+    "description": "Chisato is a beautiful 35 year old writer (who looks like 18 really), father of Riju, a cute 15 year old boy. Chisato's hobby is to drive away all of Riju's friends because he thinks they want to...",
+    "mal_id": 3375,
+    "mal_title": "Kirepapa.",
+    "mal_url": "https://myanimelist.net/anime/3375",
+    "mal_matched_via": "Kirepapa (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3935,
+    "title": "Hatena☆Illusion",
+    "alternate_title": "N/A",
+    "url": "https://www.animegg.org/series/hatena-illusion",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Ecchi",
+      "Supernatural",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "Ever since watching a magic show held by him and his wife Maeve, Makoto Shiranui has always admired Mamoru Hoshisato—a world-class magician, as well as friend of his parents—and came to Tokyo to...",
+    "mal_id": 35252,
+    "mal_title": "Hatena☆Illusion",
+    "mal_url": "https://myanimelist.net/anime/35252",
+    "mal_matched_via": "Hatena☆Illusion",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3936,
+    "title": "Ame-iro Cocoa Series: Ame-con!!",
+    "alternate_title": "雨色ココアシリーズ あめこん!!",
+    "url": "https://www.animegg.org/series/ame-iro-cocoa-series-ame-con",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "description": "Fourth Season of Ame-iro Cocoa Series.",
+    "mal_id": 35923,
+    "mal_title": "Ame-iro Cocoa Series: Ame-con!!",
+    "mal_url": "https://myanimelist.net/anime/35923",
+    "mal_matched_via": "Ame-iro Cocoa Series: Ame-con!!",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3937,
+    "title": "Overlord Movie 1: Fushisha no Ou",
+    "alternate_title": "Overlord: The Undead King, Gekijouban Overlord",
+    "url": "https://www.animegg.org/series/overlord-movie-1-fushisha-no-ou",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [],
+    "description": "First Overlord recap film.",
+    "mal_id": 34161,
+    "mal_title": "Overlord Movie 1: Fushisha no Ou",
+    "mal_url": "https://myanimelist.net/anime/34161",
+    "mal_matched_via": "Overlord Movie 1: Fushisha no Ou",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3938,
+    "title": "Puniru wa Kawaii Slime",
+    "alternate_title": "ぷにるはかわいいスライム",
+    "url": "https://www.animegg.org/series/puniru-wa-kawaii-slime",
+    "episode_count": 18,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "description": "This is the story of Puniru the slime and Kotarou, a middle school student, until they cease being friends...\r\n\r\nKotarou Kawaii is a second-year middle school boy. When he was in elementary school, a...",
+    "mal_id": 57517,
+    "mal_title": "Puniru wa Kawaii Slime",
+    "mal_url": "https://myanimelist.net/anime/57517",
+    "mal_matched_via": "Puniru wa Kawaii Slime",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3939,
+    "title": "Queen's Blade OVA Specials",
+    "alternate_title": "クイーンズブレイド OVA",
+    "url": "https://www.animegg.org/series/queens-blade-ova-specials",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Ecchi"
+    ],
+    "description": "Specials included in the Queen's Blade Premium Visual Book's DVDs.",
+    "mal_id": 12065,
+    "mal_title": "Queen's Blade OVA Specials",
+    "mal_url": "https://myanimelist.net/anime/12065",
+    "mal_matched_via": "Queen's Blade OVA Specials",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3940,
+    "title": "Detective Conan Movie 18: The Sniper from Another Dimension",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/detective-conan-movie-18-the-sniper-from-another-dimension",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [],
+    "description": "",
+    "mal_id": 21419,
+    "mal_title": "Meitantei Conan Movie 18: Ijigen no Sniper",
+    "mal_url": "https://myanimelist.net/anime/21419",
+    "mal_matched_via": "Detective Conan Movie 18: The Sniper from Another Dimension (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3941,
+    "title": "Gatekeepers 21",
+    "alternate_title": "Gatekeepers 21,ゲートキーパーズ21",
+    "url": "https://www.animegg.org/series/gatekeepers-21",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi",
+      "Drama",
+      "Shounen"
+    ],
+    "description": "32 years have passed since the initial defeat of the Invaders. A.E.G.I.S is all but dismantled now and has become an underground organiziation consisting of only a few Gate Keepers left to save...",
+    "mal_id": 128,
+    "mal_title": "Gate Keepers 21",
+    "mal_url": "https://myanimelist.net/anime/128",
+    "mal_matched_via": "Gatekeepers 21 (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3942,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! OVA",
+    "alternate_title": "N/A",
+    "url": "https://www.animegg.org/series/kono-subarashii-sekai-ni-shukufuku-wo-ova",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Supernatural",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "Bundled with the ninth volume of the light novel.",
+    "mal_id": 30831,
+    "mal_title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "mal_url": "https://myanimelist.net/anime/30831",
+    "mal_matched_via": "Kono Subarashii Sekai ni Shukufuku wo! OVA (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3943,
+    "title": "Kill la Kill Special",
+    "alternate_title": "キルラキル 特別編",
+    "url": "https://www.animegg.org/series/kill-la-kill-special",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Comedy",
+      "School"
+    ],
+    "description": "A 25th unaired episode of Trigger’s TV anime series Kill la Kill will be bundled with the 9th volume of the Blu-ray and DVD release — out September 3rd, 2014. It will be about the graduation ceremony...",
+    "mal_id": 21659,
+    "mal_title": "Kill la Kill Specials",
+    "mal_url": "https://myanimelist.net/anime/21659",
+    "mal_matched_via": "Kill la Kill Special (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3944,
+    "title": "Ozuma",
+    "alternate_title": "Ozuma , オズマ",
+    "url": "https://www.animegg.org/series/ozuma",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "description": "In the far future, the elevated irradiation from the sun has destroyed the environment of the earth and the birthrate of humans has drastically decreased. The government controls society with an army...",
+    "mal_id": 12677,
+    "mal_title": "Ozma",
+    "mal_url": "https://myanimelist.net/anime/12677",
+    "mal_matched_via": "Ozuma (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3945,
+    "title": "Jinrui wa Suitai Shimashita Specials",
+    "alternate_title": "Humanity Has Declined Specials, 人類は衰退しました",
+    "url": "https://www.animegg.org/series/jinrui-wa-suitai-shimashita-specials",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Fantasy",
+      "Seinen"
+    ],
+    "description": "Specials",
+    "mal_id": 15617,
+    "mal_title": "Jinrui wa Suitai Shimashita Specials",
+    "mal_url": "https://myanimelist.net/anime/15617",
+    "mal_matched_via": "Jinrui wa Suitai Shimashita Specials",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3946,
+    "title": "Shiro Seijo to Kuro Bokushi",
+    "alternate_title": "白聖女と黒牧師 / しろせいじょとくろぼくし / 白聖女與黑牧師 / 백성녀와 흑목사 / Saint Cecilia and Pastor Lawrence / Saint Cecilia & Pastor Lawrence / White Saint and Black Pastor / White Saint & Black Pastor",
+    "url": "https://www.animegg.org/series/shiro-seijo-to-kuro-bokushi",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy"
+    ],
+    "description": "Dwelling in the small outskirts of a peaceful town, Lawrence works as a local pastor for the townsfolk. When in need, he is responsible for guiding people to the church to visit the \"Saint\"—a symbol...",
+    "mal_id": 52082,
+    "mal_title": "Shiro Seijo to Kuro Bokushi",
+    "mal_url": "https://myanimelist.net/anime/52082",
+    "mal_matched_via": "Shiro Seijo to Kuro Bokushi",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3947,
+    "title": "Obey Me!",
+    "alternate_title": "N/A",
+    "url": "https://www.animegg.org/series/obey-me",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Demons",
+      "Fantasy",
+      "Comedy"
+    ],
+    "description": "Lucifer, Satan, and the other five princes of hell are students at the Royal Academy of Diavolo, where they train to rule the Demon World. From following humans to falling in love, their individual...",
+    "mal_id": 48641,
+    "mal_title": "Obey Me!",
+    "mal_url": "https://myanimelist.net/anime/48641",
+    "mal_matched_via": "Obey Me!",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3948,
+    "title": "Kyo kara Maoh! R",
+    "alternate_title": "Kyou Kara Maou! OVA, Kyou Kara Maoh! R, Maruma OVA,今日からマ王！R",
+    "url": "https://www.animegg.org/series/kyo-kara-maoh-r",
+    "episode_count": 5,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "description": "Life has returned to some form of normalcy after the end of the series, and so His Majesty Yuuri Shibuya travels to oversee how things are going. While doing so, he runs into the king of Small...",
+    "mal_id": 4080,
+    "mal_title": "Kyou kara Maou! 3rd Series",
+    "mal_url": "https://myanimelist.net/anime/4080",
+    "mal_matched_via": "Kyo kara Maoh! R (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3949,
+    "title": "Berserk: Ougon Jidaihen III - Kourin",
+    "alternate_title": "Berserk Movie, Berserk Saga, Berserk: Golden Age Arc III - Descent,ベルセルク 黄金時代篇Ⅲ 降臨",
+    "url": "https://www.animegg.org/series/berserk-ougon-jidaihen-iii---kourin",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Demons",
+      "Fantasy",
+      "Military",
+      "Supernatural",
+      "Seinen"
+    ],
+    "description": "One year has passed since Guts left the Band of the Hawk and Griffith was imprisoned by the Kingdom of Midland for treason.\r\n\r\nIn the dead of night, at a camping site where they hide, the Band of the...",
+    "mal_id": 12115,
+    "mal_title": "Berserk: Ougon Jidai-hen III - Kourin",
+    "mal_url": "https://myanimelist.net/anime/12115",
+    "mal_matched_via": "Berserk: Ougon Jidaihen III - Kourin (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3950,
+    "title": "World Fool News (TV)",
+    "alternate_title": "ワールド フールニュース",
+    "url": "https://www.animegg.org/series/world-fool-news",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "description": "Takahashi is transferred to a main anchor of a news program, which is known for being a little...weird. This is a comedy about somewhat ridiculous happenings occurring at a broadcasting station.",
+    "mal_id": 18205,
+    "mal_title": "World Fool News (TV)",
+    "mal_url": "https://myanimelist.net/anime/18205",
+    "mal_matched_via": "World Fool News (TV)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3951,
+    "title": "Deaimon",
+    "alternate_title": "であいもん",
+    "url": "https://www.animegg.org/series/deaimon",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Slice of Life",
+      "Seinen",
+      "Gourmet"
+    ],
+    "description": "Nagomu Irino returns to his Kyoto home for the first time in ten years when his father is hospitalized. Nagomu is eager to take over Ryokushou, the family's Japanese sweet shop, but he's instead asked...",
+    "mal_id": 48779,
+    "mal_title": "Deaimon",
+    "mal_url": "https://myanimelist.net/anime/48779",
+    "mal_matched_via": "Deaimon",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3952,
+    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+    "alternate_title": "幻日のヨハネ -SUNSHINE in the MIRROR- , Yohane the Parhelion: Sunshine in the Mirror",
+    "url": "https://www.animegg.org/series/genjitsu-no-yohane-sunshine-in-the-mirror",
+    "episode_count": 13,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy"
+    ],
+    "description": "\"Nobody knows the story of the girl that everybody knows.\"\r\nNumazu is a scenic port town surrounded by the mountains and the sea.\r\n\r\nYohane, a girl who has struggled to fit in with her surroundings...",
+    "mal_id": 52214,
+    "mal_title": "Genjitsu no Yohane: Sunshine in the Mirror",
+    "mal_url": "https://myanimelist.net/anime/52214",
+    "mal_matched_via": "Genjitsu no Yohane: Sunshine in the Mirror",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3953,
+    "title": "Ikkitousen: Extravaganza Epoch",
+    "alternate_title": "Ikki Tousen: Extravaganza Epoch, 一騎当千 Extravaganza Epoch",
+    "url": "https://www.animegg.org/series/ikkitousen-extravaganza-epoch",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Martial Arts",
+      "Ecchi",
+      "Super Power",
+      "School",
+      "Seinen"
+    ],
+    "description": "New Ikkitousen OVA.",
+    "mal_id": 26183,
+    "mal_title": "Ikkitousen: Extravaganza Epoch",
+    "mal_url": "https://myanimelist.net/anime/26183",
+    "mal_matched_via": "Ikkitousen: Extravaganza Epoch",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3954,
+    "title": "Bungou Stray Dogs 4th Season",
+    "alternate_title": "Bungo Stray Dogs; 文豪ストレイドッグス",
+    "url": "https://www.animegg.org/series/bungou-stray-dogs-4th-season",
+    "episode_count": 13,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Super Power",
+      "Supernatural",
+      "Comedy",
+      "Mystery",
+      "Seinen",
+      "Organized Crime",
+      "Adult Cast"
+    ],
+    "description": "Fourth season of Bungou Stray Dogs.",
+    "mal_id": 50330,
+    "mal_title": "Bungou Stray Dogs 4th Season",
+    "mal_url": "https://myanimelist.net/anime/50330",
+    "mal_matched_via": "Bungou Stray Dogs 4th Season",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3955,
+    "title": "Kai Byoui Ramune",
+    "alternate_title": "Dr. Ramune -Mysterious Disease Specialist-, 怪病医ラムネ",
+    "url": "https://www.animegg.org/series/kai-byoui-ramune",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Supernatural",
+      "Shounen",
+      "Psychological"
+    ],
+    "description": "As long as hearts exist inside people, there will always be those who suffer. And then something \"strange\" enters their mind and causes a strange disease to manifest itself in the body. The illness...",
+    "mal_id": 42822,
+    "mal_title": "Kai Byoui Ramune",
+    "mal_url": "https://myanimelist.net/anime/42822",
+    "mal_matched_via": "Kai Byoui Ramune",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3956,
+    "title": "Bleach: Memories in the Rain",
+    "alternate_title": "Bleach: Jump Festa 2004",
+    "url": "https://www.animegg.org/series/bleach-memories-in-the-rain",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural",
+      "Shounen"
+    ],
+    "description": "Kurosaki Ichigo, the temporary Shinigami(Death God) for Kuchiki Rukia, discovers his mother's killer as one of the Hollows he has been hunting. He does battle with it in a prideful battle of revenge...",
+    "mal_id": 762,
+    "mal_title": "Bleach: Memories in the Rain",
+    "mal_url": "https://myanimelist.net/anime/762",
+    "mal_matched_via": "Bleach: Memories in the Rain",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3957,
+    "title": "Musekinin Galaxy☆Tylor",
+    "alternate_title": "The Irresponsible Galaxy☆Tylor",
+    "url": "https://www.animegg.org/series/musekinin-galaxy-tylor",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi",
+      "Military",
+      "Comedy",
+      "Parody",
+      "Space"
+    ],
+    "description": "Taking place in a very distant in future, the adventure begins when a boy meets a certain girl. The Pan Galaxy Republic has declined and so have many empires. This resulted to people in the galaxy...",
+    "mal_id": 35730,
+    "mal_title": "Musekinin Galaxy☆Tylor",
+    "mal_url": "https://myanimelist.net/anime/35730",
+    "mal_matched_via": "Musekinin Galaxy☆Tylor",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3958,
+    "title": "Tsubasa to Hotaru",
+    "alternate_title": "Ribon Festa 2014, Ribbon Festa 2014,つばさとホタル",
+    "url": "https://www.animegg.org/series/tsubasa-to-hotaru",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Shoujo"
+    ],
+    "description": "The story revolves around Tsubasa Sonokawa, a 15-year old high school girl who fell in love with her upperclassman when he saved her after she fainted at the train station from anemia. She thought it...",
+    "mal_id": 21781,
+    "mal_title": "Tsubasa to Hotaru",
+    "mal_url": "https://myanimelist.net/anime/21781",
+    "mal_matched_via": "Tsubasa to Hotaru",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3959,
+    "title": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami",
+    "alternate_title": "きょうかいのかなた アイドル裁判！～迷いながらも君を裁く民～",
+    "url": "https://www.animegg.org/series/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami",
+    "episode_count": 5,
+    "status": "Completed",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Each of the episodes will have the female main characters cast as Chibi Angels who hold a trial for a different character of the series. Akihito Kanbara will be the defendant for the first episode.",
+    "mal_id": 21241,
+    "mal_title": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami",
+    "mal_url": "https://myanimelist.net/anime/21241",
+    "mal_matched_via": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3960,
+    "title": "Non Non Biyori Nonstop",
+    "alternate_title": "Non Non Biyori 3rd Season, のんのんびより のんすとっぷ",
+    "url": "https://www.animegg.org/series/non-non-biyori-nonstop",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Seinen"
+    ],
+    "description": "Third season of Non Non Biyori.",
+    "mal_id": 39808,
+    "mal_title": "Non Non Biyori Nonstop",
+    "mal_url": "https://myanimelist.net/anime/39808",
+    "mal_matched_via": "Non Non Biyori Nonstop",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3961,
+    "title": "Tono to Issho: Gantai no Yabou",
+    "alternate_title": "殿といっしょ 眼帯の野望",
+    "url": "https://www.animegg.org/series/tono-to-issho-gantai-no-yabou",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Seinen",
+      "Historical",
+      "Parody",
+      "Samurai"
+    ],
+    "description": "Comedy parodying famous samurai generals and historical events.",
+    "mal_id": 10324,
+    "mal_title": "Tono to Issho: Gantai no Yabou",
+    "mal_url": "https://myanimelist.net/anime/10324",
+    "mal_matched_via": "Tono to Issho: Gantai no Yabou",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3962,
+    "title": "Sentou Yousei Yukikaze",
+    "alternate_title": "Battle Fairy Yukikaze, Yukikaze Operation, Fairy Air Force , 戦闘妖精雪風",
+    "url": "https://www.animegg.org/series/sentou-yousei-yukikaze",
+    "episode_count": 5,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Drama",
+      "Military",
+      "Psychological",
+      "Space"
+    ],
+    "description": "This full 3DCG digital animation has story takes place in the far future after a pillar of huge fog appeared suddenly in the South Pole. This pillar, known as Jam, is actually a passage for an earth...",
+    "mal_id": 1080,
+    "mal_title": "Sentou Yousei Yukikaze",
+    "mal_url": "https://myanimelist.net/anime/1080",
+    "mal_matched_via": "Sentou Yousei Yukikaze",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3963,
+    "title": "Stand By Me Doraemon",
+    "alternate_title": "Doraemon Movie,STAND BY ME ドラえもん",
+    "url": "https://www.animegg.org/series/stand-by-me-doraemon",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi",
+      "Comedy",
+      "Shounen",
+      "Kids",
+      "Movie"
+    ],
+    "description": "Directed by Takashi Yamazaki and Ryūichi Yagi, the plot combines \"All the Way From the Country of the Future\", \"Romance in Snowy Mountain\", \"Nobita's the Night Before a Wedding\" and \"Goodbye, Doraemon...",
+    "mal_id": 21469,
+    "mal_title": "Stand By Me Doraemon",
+    "mal_url": "https://myanimelist.net/anime/21469",
+    "mal_matched_via": "Stand By Me Doraemon",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3964,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+    "alternate_title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion, DanMachi Movie, Is It Wrong That I Want to Meet You in a Dungeon Movie",
+    "url": "https://www.animegg.org/series/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya",
+    "episode_count": 1,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "In the city of Orario, beneath an impossibly tall tower, lies the dungeon. Only adventurers who form partnerships with the gods themselves have any hope of defeating the monsters that lie within. But...",
+    "mal_id": 37348,
+    "mal_title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+    "mal_url": "https://myanimelist.net/anime/37348",
+    "mal_matched_via": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3965,
+    "title": "Majo to Yajuu",
+    "alternate_title": "魔女と野獣, Witch and the Beast, The Witch and the Beast",
+    "url": "https://www.animegg.org/series/majo-to-yajuu",
+    "episode_count": 11,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Seinen"
+    ],
+    "description": "Guideau: a feral girl with long fangs and the eyes of a beast. Ashaf: a soft-spoken man with delicate features and a coffin strapped to his back. This ominous pair appears one day in a town that's in...",
+    "mal_id": 52816,
+    "mal_title": "Majo to Yajuu",
+    "mal_url": "https://myanimelist.net/anime/52816",
+    "mal_matched_via": "Majo to Yajuu",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3966,
+    "title": "Usavich II",
+    "alternate_title": "Usavich II,Usavich 2,ウサビッチ",
+    "url": "https://www.animegg.org/series/usavich-ii",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "The adventures of Putin and Kirenenko, two rabbits stuck in a Russian prison, continue as they make their escape and try to avoid the fearsome Soviet bunnies on their trail!",
+    "mal_id": 3738,
+    "mal_title": "Usavich II",
+    "mal_url": "https://myanimelist.net/anime/3738",
+    "mal_matched_via": "Usavich II",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3967,
+    "title": "Bikini Warriors OVA",
+    "alternate_title": "ビキニ・ウォリアーズ",
+    "url": "https://www.animegg.org/series/bikini-warriors-ova",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Fantasy",
+      "Ecchi",
+      "Comedy",
+      "Parody"
+    ],
+    "description": "New OVAs slated for release in Fall 2016. The OVAs will include two new characters, Cleric and Kunoichi.",
+    "mal_id": 33712,
+    "mal_title": "Bikini Warriors OVA",
+    "mal_url": "https://myanimelist.net/anime/33712",
+    "mal_matched_via": "Bikini Warriors OVA",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3968,
+    "title": "Mononogatari 2nd Season",
+    "alternate_title": "もののがたり 第二章 / もののがたり 2 / Malevolent Spirits: Mononogatari Cour 2",
+    "url": "https://www.animegg.org/series/mononogatari-2nd-season",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Seinen",
+      "Mythology",
+      "Adult Cast"
+    ],
+    "description": "Second Season of Mononogatari",
+    "mal_id": 54883,
+    "mal_title": "Mononogatari 2nd Season",
+    "mal_url": "https://myanimelist.net/anime/54883",
+    "mal_matched_via": "Mononogatari 2nd Season",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3969,
+    "title": "Sonny Boy",
+    "alternate_title": "N/A",
+    "url": "https://www.animegg.org/series/sonny-boy",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Sci-Fi",
+      "Super Power"
+    ],
+    "description": "Empty classrooms, boring days. It was supposed to be a normal summer vacation just like any other. Suddenly, the school begins to drift through another dimension, and 36 boys and girls are left there...",
+    "mal_id": 48849,
+    "mal_title": "Sonny Boy",
+    "mal_url": "https://myanimelist.net/anime/48849",
+    "mal_matched_via": "Sonny Boy",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3970,
+    "title": "Ah! My Goddess OVA",
+    "alternate_title": "ああっ女神さまっ",
+    "url": "https://www.animegg.org/series/ah-my-goddess-ova",
+    "episode_count": 5,
+    "status": "Completed",
+    "genres": [
+      "Magic",
+      "Supernatural",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "Morisato Keiichi is a down on his luck college student. Although possessing a diligent and generous nature, he had the misfortune of being born under an unlucky star. As a result, the current state of...",
+    "mal_id": 49,
+    "mal_title": "Aa! Megami-sama!",
+    "mal_url": "https://myanimelist.net/anime/49",
+    "mal_matched_via": "Ah! My Goddess OVA (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3971,
+    "title": "Acro Trip",
+    "alternate_title": "アクロトリップ",
+    "url": "https://www.animegg.org/series/acro-trip",
+    "episode_count": 9,
+    "status": "Ongoing",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Chizuko Date is an otaku girl who lives in a city in Niigata Prefecture. Chizuko is obsessed with Berry Blossom, the magical girl who protects the city. However, Chroma — the leader of the local evil...",
+    "mal_id": 53723,
+    "mal_title": "Acro Trip",
+    "mal_url": "https://myanimelist.net/anime/53723",
+    "mal_matched_via": "Acro Trip",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3972,
+    "title": "Fate/strange Fake",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/fate-strange-fake",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy"
+    ],
+    "description": "Fate/strange Fake centers around an imperfect copy of a Grail War based on the Third Holy Grail War in Fuyuki. Following the conclusion of the third Grail War, a US-based organization with magi...",
+    "mal_id": 55830,
+    "mal_title": "Fate/strange Fake",
+    "mal_url": "https://myanimelist.net/anime/55830",
+    "mal_matched_via": "Fate/strange Fake",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3973,
+    "title": "Ranma ½ (2024)",
+    "alternate_title": "Ranma ½, Ranma 1 2, Ranma ½ Nettou Hen, らんま1 2",
+    "url": "https://www.animegg.org/series/ranma-2024",
+    "episode_count": 8,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "Soun Tendou runs the Tendou Martial Arts School accompanied by his three daughters: Akane, Nabiki, and Kasumi. One day, the sisters' lives are turned upside down when their father announces that he...",
+    "mal_id": 59145,
+    "mal_title": "Ranma ½ (2024)",
+    "mal_url": "https://myanimelist.net/anime/59145",
+    "mal_matched_via": "Ranma ½ (2024)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3974,
+    "title": "Robot Carnival",
+    "alternate_title": "Robot Carnival,ロボット・カーニバル",
+    "url": "https://www.animegg.org/series/robot-carnival",
+    "episode_count": 9,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "description": "9 of Japan's leading animators were asked to create a short segment that followed the theme of \"Robots,\" for their inclusion in this film. Essentially, this \"movie\" is 9 short films, all independant...",
+    "mal_id": 2182,
+    "mal_title": "Robot Carnival",
+    "mal_url": "https://myanimelist.net/anime/2182",
+    "mal_matched_via": "Robot Carnival",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3975,
+    "title": "Edomae Elf",
+    "alternate_title": "Otaku Elf; A Sloven Elf Who Have Been from the Edo Period, Shut-In Elf; 江戸前エルフ",
+    "url": "https://www.animegg.org/series/edomae-elf",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Supernatural",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "Koito Koganei works as the teenage shrine maiden at the Takamimi Shrine, catering to the whims of its resident: a centuries-old elf who loves video games as much as she hates going outside! Line up...",
+    "mal_id": 52081,
+    "mal_title": "Edomae Elf",
+    "mal_url": "https://myanimelist.net/anime/52081",
+    "mal_matched_via": "Edomae Elf",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3976,
+    "title": "BanG Dream! 3rd Season",
+    "alternate_title": "BanG Dream!（バンドリ！）第3期",
+    "url": "https://www.animegg.org/series/bang-dream-3rd-season",
+    "episode_count": 13,
+    "status": "Ongoing",
+    "genres": [
+      "Music"
+    ],
+    "description": "Third season of BanG Dream! series.",
+    "mal_id": 37870,
+    "mal_title": "BanG Dream! 3rd Season",
+    "mal_url": "https://myanimelist.net/anime/37870",
+    "mal_matched_via": "BanG Dream! 3rd Season",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3977,
+    "title": "Tsukumogami Kashimasu",
+    "alternate_title": "つくもがみ貸します",
+    "url": "https://www.animegg.org/series/tsukumogami-kashimasu",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Demons",
+      "Supernatural",
+      "Comedy",
+      "Slice of Life",
+      "Historical"
+    ],
+    "description": "The series is set during the Edo period, in the Fukagawa ward of old Edo (present-day Tokyo). Because the area is prone to fire and flooding, residents rent everyday items like pots, futons, and...",
+    "mal_id": 36654,
+    "mal_title": "Tsukumogami Kashimasu",
+    "mal_url": "https://myanimelist.net/anime/36654",
+    "mal_matched_via": "Tsukumogami Kashimasu",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3978,
+    "title": "Mushoku tensei jobless reincarnation season 3",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/mushoku-tensei-jobless-reincarnation-season-3",
+    "episode_count": 4,
+    "status": "Ongoing",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Magic"
+    ],
+    "description": "Killed while saving a stranger from a traffic collision, a 34-year-old NEET is reincarnated into a world of magic as Rudeus Greyrat, a newborn baby. With knowledge, experience, and regrets from his...",
+    "mal_id": 59193,
+    "mal_title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "mal_url": "https://myanimelist.net/anime/59193",
+    "mal_matched_via": "Mushoku tensei jobless reincarnation season 3 (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3979,
+    "title": "Binchou-tan",
+    "alternate_title": "びんちょうタン, Binchotan",
+    "url": "https://www.animegg.org/series/binchou-tan",
+    "episode_count": 7,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Iyashikei"
+    ],
+    "description": "This is a story about a little girl who lives in an old house in the mountains. Her name is Bincho-tan. Each episode depicts a day in the life of Bincho-tan as she prepares her breakfast in the...",
+    "mal_id": 750,
+    "mal_title": "Binchou-tan",
+    "mal_url": "https://myanimelist.net/anime/750",
+    "mal_matched_via": "Binchou-tan",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3980,
+    "title": "Shoushimin Series",
+    "alternate_title": "hoshimin: How to Become Ordinary, 小市民シリーズ",
+    "url": "https://www.animegg.org/series/shoushimin-series",
+    "episode_count": 21,
+    "status": "Ongoing",
+    "genres": [
+      "Mystery"
+    ],
+    "description": "“Let’s help each other and aim to become perfect ordinary citizens.”Kobato, who once had a bitter experience through deduction activities known as “wisdom work,” was determined to become an honest and...",
+    "mal_id": 57810,
+    "mal_title": "Shoushimin Series",
+    "mal_url": "https://myanimelist.net/anime/57810",
+    "mal_matched_via": "Shoushimin Series",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3981,
+    "title": "Shinigami Bocchan to Kuro Maid 2nd Season",
+    "alternate_title": "死神坊ちゃんと黒メイド, The Duke of Death and His Maid Season 2",
+    "url": "https://www.animegg.org/series/shinigami-bocchan-to-kuro-maid-2nd-season",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Supernatural",
+      "Comedy",
+      "Romantic Subtext"
+    ],
+    "description": "Second season of Shinigami Bocchan to Kuro Maid.",
+    "mal_id": 49858,
+    "mal_title": "Shinigami Bocchan to Kuro Maid 2nd Season",
+    "mal_url": "https://myanimelist.net/anime/49858",
+    "mal_matched_via": "Shinigami Bocchan to Kuro Maid 2nd Season",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3982,
+    "title": "Trinity Seven OVA",
+    "alternate_title": "N/A",
+    "url": "https://www.animegg.org/series/trinity-seven-ova",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Magic",
+      "Ecchi",
+      "Supernatural",
+      "Comedy",
+      "School",
+      "Romance",
+      "Harem"
+    ],
+    "description": "Bundled with limited edition of the 11th compiled volume of the manga. The premise of the OVA will be written by Kenji Saitou and will deal with a \"hilarious festival.\" The 11th volume is scheduled to...",
+    "mal_id": 28285,
+    "mal_title": "Trinity Seven: Nanatsu no Taizai to Nana Madoushi",
+    "mal_url": "https://myanimelist.net/anime/28285",
+    "mal_matched_via": "Trinity Seven OVA (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3983,
+    "title": "Jujutsu Kaisen 0 Movie",
+    "alternate_title": "Gekijouban Jujutsu Kaisen 0",
+    "url": "https://www.animegg.org/series/jujutsu-kaisen-0-movie",
+    "episode_count": 1,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "description": "Violent misfortunes frequently occur around 16-year-old Yuuta Okkotsu, a timid victim of high school bullying. Yuuta is saddled with a monstrous curse, a power that dishes out brutal revenge against...",
+    "mal_id": 48561,
+    "mal_title": "Jujutsu Kaisen 0 Movie",
+    "mal_url": "https://myanimelist.net/anime/48561",
+    "mal_matched_via": "Jujutsu Kaisen 0 Movie",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3984,
+    "title": "Harukanaru Toki no Naka de: Character Endings",
+    "alternate_title": "Haruka Naru Toki no Naka de: Character Specials",
+    "url": "https://www.animegg.org/series/harukanaru-toki-no-naka-de-character-endings",
+    "episode_count": 8,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Shoujo",
+      "Historical",
+      "Romance"
+    ],
+    "description": "Short clips about what happens after the TV series.",
+    "mal_id": 1905,
+    "mal_title": "Harukanaru Toki no Naka de: Hachiyou Shou Specials",
+    "mal_url": "https://myanimelist.net/anime/1905",
+    "mal_matched_via": "Harukanaru Toki no Naka de: Character Endings (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3985,
+    "title": "Tight-rope",
+    "alternate_title": "Tightrope, タイトロープ",
+    "url": "https://www.animegg.org/series/tight-rope",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Romance",
+      "Yaoi"
+    ],
+    "description": "Tightrope tells the tale of the reluctant heir of a yakuza family and his childhood friend, and follows their love relationship that started budding in their school days and keeps developing slowly...",
+    "mal_id": 12695,
+    "mal_title": "Tight-rope",
+    "mal_url": "https://myanimelist.net/anime/12695",
+    "mal_matched_via": "Tight-rope",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3986,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA",
+    "alternate_title": "KonoSuba: God's Blessing on This Wonderful World! Second Season OVA",
+    "url": "https://www.animegg.org/series/kono-subarashii-sekai-ni-shukufuku-wo-2-ova",
+    "episode_count": 1,
+    "status": "Ongoing",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Magic",
+      "Supernatural",
+      "Comedy"
+    ],
+    "description": "Bundled with the 12th volume of the light novel.",
+    "mal_id": 34626,
+    "mal_title": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+    "mal_url": "https://myanimelist.net/anime/34626",
+    "mal_matched_via": "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3987,
+    "title": "Urasekai Picnic",
+    "alternate_title": "Otherside Picnic, Ura Sekai Picnic, 裏世界ピクニック",
+    "url": "https://www.animegg.org/series/urasekai-picnic",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Shoujo Ai"
+    ],
+    "description": "Her first encounter with Toriko Nishina was on the Otherside after seeing \"that thing\" and nearly dying. Ever since that day, exhausted university student Sorawo Kamikoshi's life changed. In this...",
+    "mal_id": 41392,
+    "mal_title": "Urasekai Picnic",
+    "mal_url": "https://myanimelist.net/anime/41392",
+    "mal_matched_via": "Urasekai Picnic",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3988,
+    "title": "Angel Cop",
+    "alternate_title": "エンジェルコップ",
+    "url": "https://www.animegg.org/series/angel-cop",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Police"
+    ],
+    "description": "Sometime in the future, terrorism in Japan has become commonplace, and the police have become almost as brutal as criminals. A member of the Special Security Force known as Angel, is the best of the...",
+    "mal_id": 1351,
+    "mal_title": "Angel Cop",
+    "mal_url": "https://myanimelist.net/anime/1351",
+    "mal_matched_via": "Angel Cop",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3989,
+    "title": "Accel World OVA",
+    "alternate_title": "Accel World: Reverberation,アクセル・ワールド EX",
+    "url": "https://www.animegg.org/series/accel-world-ova",
+    "episode_count": 2,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Game",
+      "Shounen",
+      "School",
+      "Romance"
+    ],
+    "description": "OVA of Accel World bundled with the simulation & action game \"Accel World: Ginyoku no Kakusei\" for Playstation Portable and Playstation 3.",
+    "mal_id": 13939,
+    "mal_title": "Accel World EX",
+    "mal_url": "https://myanimelist.net/anime/13939",
+    "mal_matched_via": "Accel World OVA (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3990,
+    "title": "Video Girl Ai",
+    "alternate_title": "Den'ei Shoujo Video Girl AI,電影少女 VIDEO・GIRL・AI",
+    "url": "https://www.animegg.org/series/video-girl-ai",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Comedy",
+      "Romance"
+    ],
+    "description": "When Youta is told by the girl he likes, Moemi, that she likes someone else, he rents a video girl tape from a strange video rental shop. When he plays the tape at home, Video Girl Ai emerges from the...",
+    "mal_id": 201,
+    "mal_title": "Video Girl Ai",
+    "mal_url": "https://myanimelist.net/anime/201",
+    "mal_matched_via": "Video Girl Ai",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3991,
+    "title": "Gurazeni: Season 2",
+    "alternate_title": "Gurazeni 2nd Season",
+    "url": "https://www.animegg.org/series/gurazeni-season-2",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Seinen",
+      "Sports"
+    ],
+    "description": "Second season of Gurazeni",
+    "mal_id": 37990,
+    "mal_title": "Gurazeni Season 2",
+    "mal_url": "https://myanimelist.net/anime/37990",
+    "mal_matched_via": "Gurazeni: Season 2 (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3992,
+    "title": "Koutetsujou no Kabaneri: Unato Kessen",
+    "alternate_title": "Kabaneri of the Iron Fortress: The Battle of Unato",
+    "url": "https://www.animegg.org/series/koutetsujou-no-kabaneri-unato-kessen",
+    "episode_count": 3,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Supernatural",
+      "Horror"
+    ],
+    "description": "Sequel of Koutetsujou no Kabaneri",
+    "mal_id": 34544,
+    "mal_title": "Koutetsujou no Kabaneri Movie 3: Unato Kessen",
+    "mal_url": "https://myanimelist.net/anime/34544",
+    "mal_matched_via": "Koutetsujou no Kabaneri: Unato Kessen (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3993,
+    "title": "Ao no Miburo",
+    "alternate_title": "The Blue Wolves of Mibu, Blue Miburo ; 青のミブロ",
+    "url": "https://www.animegg.org/series/ao-no-miburo",
+    "episode_count": 16,
+    "status": "Ongoing",
+    "genres": [
+      "Action"
+    ],
+    "description": "It’s 1863, the twilight of the shogunate, and Japan is on the cusp of monumental change. The streets of the nation’s capital are soaked in blood as political upheaval and rising tensions between...",
+    "mal_id": 56647,
+    "mal_title": "Ao no Miburo",
+    "mal_url": "https://myanimelist.net/anime/56647",
+    "mal_matched_via": "Ao no Miburo",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3994,
+    "title": "BanG Dream! 2nd Season",
+    "alternate_title": "BanG Dream!（バンドリ！）第2期",
+    "url": "https://www.animegg.org/series/bang-dream-2nd-season",
+    "episode_count": 13,
+    "status": "Ongoing",
+    "genres": [
+      "Music"
+    ],
+    "description": "Second season of BanG Dream! series.",
+    "mal_id": 37869,
+    "mal_title": "BanG Dream! 2nd Season",
+    "mal_url": "https://myanimelist.net/anime/37869",
+    "mal_matched_via": "BanG Dream! 2nd Season",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3995,
+    "title": "Shining Hearts: Shiawase no Pan Specials",
+    "alternate_title": "hining Hearts: Bread of Happiness Specials, シャイニング・ハーツ 〜幸せのパン〜",
+    "url": "https://www.animegg.org/series/shining-hearts-shiawase-no-pan-specials",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Fantasy"
+    ],
+    "description": "One day, a mysterious girl named Kaguya was washed ashore the island of Wyndaria after a great storm. She encounters Rick, a swordsman who wound up working at the island's bakery. Apparently, Kaguya...",
+    "mal_id": 15505,
+    "mal_title": "Shining Hearts: Shiawase no Pan Specials",
+    "mal_url": "https://myanimelist.net/anime/15505",
+    "mal_matched_via": "Shining Hearts: Shiawase no Pan Specials",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3996,
+    "title": "Namu Amida Butsu!: Rendai Utena",
+    "alternate_title": "Namuamida Butsu! Rendai Utena",
+    "url": "https://www.animegg.org/series/namu-amida-butsu-rendai-utena",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy",
+      "Historical"
+    ],
+    "description": "The pain that everyone cannot escape when living: the living, old, sick, and death. The way to save it is through Buddhist enlightenment. At the end of a war, a prince who obtained the Buddhist...",
+    "mal_id": 38150,
+    "mal_title": "Namu Amida Butsu! Rendai Utena",
+    "mal_url": "https://myanimelist.net/anime/38150",
+    "mal_matched_via": "Namu Amida Butsu!: Rendai Utena (fallback: top result)",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3997,
+    "title": "Shoujo☆Kageki Revue Starlight",
+    "alternate_title": "N/A",
+    "url": "https://www.animegg.org/series/shoujo-kageki-revue-starlight",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "School",
+      "Music"
+    ],
+    "description": "Starlight is a song and dance revue troupe loved throughout the world. Karen and Hikari make a promise with each other when they're young that one day they'll stand on that stage together. Time passes...",
+    "mal_id": 35503,
+    "mal_title": "Shoujo☆Kageki Revue Starlight",
+    "mal_url": "https://myanimelist.net/anime/35503",
+    "mal_matched_via": "Shoujo☆Kageki Revue Starlight",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3998,
+    "title": "Synduality: Noir",
+    "alternate_title": "YNDUALITY / Synduality Noir",
+    "url": "https://www.animegg.org/series/synduality-noir",
+    "episode_count": 13,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "description": "The year is 2222. It has been years since Tears of the New Moon, a mysterious rain, poured and wiped out almost the entire human race. The poisonous rain gave birth to deformed creatures devouring...",
+    "mal_id": 53026,
+    "mal_title": "Synduality: Noir",
+    "mal_url": "https://myanimelist.net/anime/53026",
+    "mal_matched_via": "Synduality: Noir",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 3999,
+    "title": "Endro~!",
+    "alternate_title": "えんどろ～！",
+    "url": "https://www.animegg.org/series/endro",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy",
+      "Magic",
+      "Slice of Life"
+    ],
+    "description": "Naral Island, a continent with swords and magic in which humans and monsters coexist. The terrible Demon King lives there. In ancient times, the first-generation hero defeated the Demon King. Over the...",
+    "mal_id": 38062,
+    "mal_title": "Endro~!",
+    "mal_url": "https://myanimelist.net/anime/38062",
+    "mal_matched_via": "Endro~!",
+    "sub_dub_status": "neither"
+  },
+  {
+    "serial_no": 4000,
+    "title": "Choujikuu Seiki Orguss 02",
+    "alternate_title": "The Super Dimension Century Orguss 02 ,超時空世紀オーガス02",
+    "url": "https://www.animegg.org/series/choujikuu-seiki-orguss-02",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi",
+      "Adventure",
+      "Shounen",
+      "Romance"
+    ],
+    "description": "Years of political tension and mistrust between the two rival nations of Zafran and Revillia escalate to the point of war. Each nations solution: to gain possession of Decimators, the same ancient...",
+    "mal_id": 2090,
+    "mal_title": "Choujikuu Seiki Orguss 02",
+    "mal_url": "https://myanimelist.net/anime/2090",
+    "mal_matched_via": "Choujikuu Seiki Orguss 02",
+    "sub_dub_status": "neither"
   }
 ]
