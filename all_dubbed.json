@@ -286,5 +286,41 @@
     "mal_url": "https://myanimelist.net/anime/35972",
     "mal_matched_via": "Fairy Tail (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3554,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen (Dub)",
+    "alternate_title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2, DanMachi 4th Season Part 2, ダンジョンに出会いを求めるのは間違っているだろうかⅣ深章 厄災篇",
+    "url": "https://www.animegg.org/series/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-fuka-shou---yakusai-hen-dub",
+    "episode_count": 9,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "Second part of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV.",
+    "mal_id": 37347,
+    "mal_title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+    "mal_url": "https://myanimelist.net/anime/37347",
+    "mal_matched_via": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3578,
+    "title": "Let's Go! Tamagotchi",
+    "alternate_title": "aa Ikoo! Tamagotchi, Let's Go! Tamagotchi , さぁイコー！たまごっち",
+    "url": "https://www.animegg.org/series/lets-go-tamagotchi",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Kids"
+    ],
+    "description": "Let's Go! Tamagotchi is an anime series focusing on the lives of Mametchi, Memetchi, Kuchipatchi, ChaMametchi, and their friends. The series premiered in Japan in December 2007, while an English dub...",
+    "mal_id": 6798,
+    "mal_title": "Saa Ikou! Tamagotchi",
+    "mal_url": "https://myanimelist.net/anime/6798",
+    "mal_matched_via": "Let's Go! Tamagotchi (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
