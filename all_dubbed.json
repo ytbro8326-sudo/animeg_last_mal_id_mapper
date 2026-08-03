@@ -8241,5 +8241,538 @@
     "mal_url": "https://myanimelist.net/anime/12859",
     "mal_matched_via": "One Piece Film: Z (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8001,
+    "title": "Jackie Chan Adventures Season 03 (Dub)",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/jackie-chan-adventures-season-03-dub",
+    "episode_count": 17,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "description": "Jackie Chan and his extended family must fight a criminal organization for magic talismans that could release an evil spirit.",
+    "mal_id": 666,
+    "mal_title": "JoJo no Kimyou na Bouken",
+    "mal_url": "https://myanimelist.net/anime/666",
+    "mal_matched_via": "Jackie Chan Adventures Season 03 (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8005,
+    "title": "Saa Ikou! Tamagotchi (Dub)",
+    "alternate_title": "aa Ikoo! Tamagotchi, Let's Go! Tamagotchi, さぁイコー！たまごっち",
+    "url": "https://www.animegg.org/series/saa-ikou-tamagotchi-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Kids"
+    ],
+    "description": "Let's Go! Tamagotchi is an anime series focusing on the lives of Mametchi, Memetchi, Kuchipatchi, ChaMametchi, and their friends. The series premiered in Japan in December 2007, while an English dub...",
+    "mal_id": 6517,
+    "mal_title": "Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?",
+    "mal_url": "https://myanimelist.net/anime/6517",
+    "mal_matched_via": "Saa Ikou! Tamagotchi (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8007,
+    "title": "Renai Boukun (Dub)",
+    "alternate_title": "Love Tyrant, The very lovely tyrant of love♥, 恋愛暴君",
+    "url": "https://www.animegg.org/series/renai-boukun-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Supernatural",
+      "Comedy",
+      "School",
+      "Romance"
+    ],
+    "description": "A Kiss Note is a powerful notebook that makes anyone who has their name written together will instantly fall in love if they kiss each other regardless of any circumstances. This magical and very...",
+    "mal_id": 32262,
+    "mal_title": "Renai Boukun",
+    "mal_url": "https://myanimelist.net/anime/32262",
+    "mal_matched_via": "Renai Boukun (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8010,
+    "title": "Oh! Edo Rocket (Dub)",
+    "alternate_title": "Oh! Edo Rocket, Ohedo Rocket, Ooedo Rocket, 大江戸ロケット",
+    "url": "https://www.animegg.org/series/oh-edo-rocket-dub",
+    "episode_count": 26,
+    "status": "Completed",
+    "genres": [],
+    "description": "In Edo in the mid-1800's, fireworks maker Seikichi Tamaya and his friends struggle to live under the harsh morality laws imposed by the strict city councilor, which ban all luxuries, including...",
+    "mal_id": 2152,
+    "mal_title": "Oh! Edo Rocket",
+    "mal_url": "https://myanimelist.net/anime/2152",
+    "mal_matched_via": "Oh! Edo Rocket",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8016,
+    "title": "Baka to Test to Shoukanjuu Ni! (Dub)",
+    "alternate_title": "バカとテストと召喚獣 にっ！, Baka And Test – Summon The Beasts 2, Baka To Test To Shoukanjuu 2, The Idiot, The Tests, And The Summoned Creatures 2, Baka And Test - Summon The Beasts, Baka To Test To Shokanju 2, BakaTest 2",
+    "url": "https://www.animegg.org/series/baka-to-test-to-shoukanjuu-ni-dub",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Super Power",
+      "Comedy",
+      "School",
+      "Romance"
+    ],
+    "description": "Continuing from where Season 1 left, the story continues with a more in depth into the characters but with the same humor narrative as before.",
+    "mal_id": 6347,
+    "mal_title": "Baka to Test to Shoukanjuu",
+    "mal_url": "https://myanimelist.net/anime/6347",
+    "mal_matched_via": "Baka to Test to Shoukanjuu Ni! (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8017,
+    "title": "Ikkitousen (Dub)",
+    "alternate_title": "Ikki Tousen, 一騎当千",
+    "url": "https://www.animegg.org/series/ikkitousen-dub",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Martial Arts",
+      "Ecchi",
+      "Super Power",
+      "School"
+    ],
+    "description": "In Ikkitousen, the Kanto region of Japan is locked in the middle of a turf war between seven different high schools. Among the students of these schools are a select few who are in possession of...",
+    "mal_id": 257,
+    "mal_title": "Ikkitousen",
+    "mal_url": "https://myanimelist.net/anime/257",
+    "mal_matched_via": "Ikkitousen (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8020,
+    "title": "Tanaka-kun wa Itsumo Kedaruge (Dub)",
+    "alternate_title": "Tanaka-kun is Always Listless, 田中くんはいつもけだるげ",
+    "url": "https://www.animegg.org/series/tanaka-kun-wa-itsumo-kedaruge-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "School",
+      "Slice of Life"
+    ],
+    "description": "For high school student Tanaka, the act of being listless is a way of life. Known for his inattentiveness and ability to fall asleep anywhere, Tanaka prays that each day will be as uneventful as the...",
+    "mal_id": 32093,
+    "mal_title": "Tanaka-kun wa Itsumo Kedaruge",
+    "mal_url": "https://myanimelist.net/anime/32093",
+    "mal_matched_via": "Tanaka-kun wa Itsumo Kedaruge (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8021,
+    "title": "ef - a tale of memories. (Dub)",
+    "alternate_title": "ef ~ A Tale of Memories; ef: A Tale of Memories.",
+    "url": "https://www.animegg.org/series/ef---a-tale-of-memories-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Seinen",
+      "Romance"
+    ],
+    "description": "On Christmas Eve, Hiro Hirono's bike is stolen by a girl chasing a thief who stole her purse. He gives chase and finds her unconscious and his bike ruined. The girl, Miyako Miyamura, soon awakes and...",
+    "mal_id": 2924,
+    "mal_title": "ef: A Tale of Memories.",
+    "mal_url": "https://myanimelist.net/anime/2924",
+    "mal_matched_via": "ef - a tale of memories. (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8027,
+    "title": "Oda Nobuna no Yabou (Dub)",
+    "alternate_title": "織田信奈の野望, The Ambition of Oda Nobuna",
+    "url": "https://www.animegg.org/series/oda-nobuna-no-yabou-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Historical",
+      "Romance"
+    ],
+    "description": "High school student Yoshiharu Sagara wakes up and finds himself in the middle of a raging Sengoku period battle. He is saved by the legendary Hideyoshi Toyotomi, but at the cost of the hero's life...",
+    "mal_id": 11933,
+    "mal_title": "Oda Nobuna no Yabou",
+    "mal_url": "https://myanimelist.net/anime/11933",
+    "mal_matched_via": "Oda Nobuna no Yabou (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8028,
+    "title": "Jackie Chan Adventures Season 01 (Dub)",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/jackie-chan-adventures-season-01-dub",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "description": "Jackie Chan and his extended family must fight a criminal organization for magic talismans that could release an evil spirit.",
+    "mal_id": 14719,
+    "mal_title": "JoJo no Kimyou na Bouken (TV)",
+    "mal_url": "https://myanimelist.net/anime/14719",
+    "mal_matched_via": "Jackie Chan Adventures Season 01 (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8037,
+    "title": "Uchuu Senkan Tiramisù (Dub)",
+    "alternate_title": "宇宙戦艦ティラミス",
+    "url": "https://www.animegg.org/series/uchuu-senkan-tiramis-dub",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Mecha",
+      "Sci-Fi",
+      "Comedy",
+      "Slice of Life",
+      "Seinen",
+      "Space"
+    ],
+    "description": "The human race extended its life field and greed to the vast reaches of space... In Space Era 0156, a war breaks out amidst all of the colonies in space. Earth begins to construct a new space...",
+    "mal_id": 36267,
+    "mal_title": "Uchuu Senkan Tiramisù",
+    "mal_url": "https://myanimelist.net/anime/36267",
+    "mal_matched_via": "Uchuu Senkan Tiramisù (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8038,
+    "title": "Ikebukuro West Gate Park (Dub)",
+    "alternate_title": "池袋ウエストゲートパーク",
+    "url": "https://www.animegg.org/series/ikebukuro-west-gate-park-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "description": "Ikebukuro is home to many different businesses and gangs. This includes Makoto Majima: the infamous \"troubleshooter\" who mediates between warring factions. Makoto knows all of the ins and outs of the...",
+    "mal_id": 40359,
+    "mal_title": "Ikebukuro West Gate Park",
+    "mal_url": "https://myanimelist.net/anime/40359",
+    "mal_matched_via": "Ikebukuro West Gate Park (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8045,
+    "title": "El Hazard: The Alternative World (Dub)",
+    "alternate_title": "Ijigen no Sekai El Hazard; Ijigen no Sekai El-Hazard; 異次元の世界エルハザード",
+    "url": "https://www.animegg.org/series/el-hazard-the-alternative-world-dub",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "description": "Miz plans to retire as a Great Priestess of Water to married life with her darling Fujisawa and as replacement the young Qawoor Towles arrives to Floristica. Jinnai sees Qawoor's initiation ceremony...",
+    "mal_id": 115,
+    "mal_title": "Ijigen no Sekai El-Hazard",
+    "mal_url": "https://myanimelist.net/anime/115",
+    "mal_matched_via": "El Hazard: The Alternative World (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8055,
+    "title": "D-Frag! (Dub)",
+    "alternate_title": "ディーふらぐ！",
+    "url": "https://www.animegg.org/series/d-frag-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Comedy",
+      "Game",
+      "School",
+      "Seinen"
+    ],
+    "description": "The Kazama Family—a gang of three wannabe delinquents and close friends, spearheaded by Kenji Kazama, is trying to make a name for themselves at Fujou Academy. On the first day of the term, the gang...",
+    "mal_id": 20031,
+    "mal_title": "D-Frag!",
+    "mal_url": "https://myanimelist.net/anime/20031",
+    "mal_matched_via": "D-Frag! (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8062,
+    "title": "Fate/stay night: Unlimited Blade Works (TV) 2nd Season (Dub)",
+    "alternate_title": "Fate/stay night [Unlimited Blade Works] 2nd シーズン",
+    "url": "https://www.animegg.org/series/fatestay-night-unlimited-blade-works-tv-2nd-season-dub",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Magic",
+      "Supernatural",
+      "Shounen"
+    ],
+    "description": "Fuyuki City—a city surrounded by the ocean and the mountains becomes the setting for an age-old ritual. To realize the mythical Holy Grail, which is said to grant any wish from its possessor, seven...",
+    "mal_id": 22297,
+    "mal_title": "Fate/stay night: Unlimited Blade Works",
+    "mal_url": "https://myanimelist.net/anime/22297",
+    "mal_matched_via": "Fate/stay night: Unlimited Blade Works (TV) 2nd Season (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8064,
+    "title": "Gatchaman Crowds Insight (Dub)",
+    "alternate_title": "Gatchaman Crowds 2nd Season, Gatchaman Crowds Second Season, GATCHAMAN CROWDS insight（インサイト）",
+    "url": "https://www.animegg.org/series/gatchaman-crowds-insight-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "description": "One day, a huge UFO spins over Japan and crashes into a rural farmland outside Nagaoka, disrupting Tsubasa Misudachi's ordinary life. As the Gatchaman, the legendary defenders of Tachikawa City...",
+    "mal_id": 21039,
+    "mal_title": "Gatchaman Crowds Insight",
+    "mal_url": "https://myanimelist.net/anime/21039",
+    "mal_matched_via": "Gatchaman Crowds Insight (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8069,
+    "title": "Gakkougurashi (Dub)",
+    "alternate_title": "chool-Live!, Gakkou Gurashi!, がっこうぐらし！",
+    "url": "https://www.animegg.org/series/gakkougurashi-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Mystery",
+      "School",
+      "Slice of Life",
+      "Horror",
+      "Psychological"
+    ],
+    "description": "Yuki Takeya loves her school so much that she does not want to ever leave! Megurigaoka High School is a unique and lively place where Yuki enjoys her carefree life as a third-year high school student...",
+    "mal_id": 24765,
+    "mal_title": "Gakkougurashi!",
+    "mal_url": "https://myanimelist.net/anime/24765",
+    "mal_matched_via": "Gakkougurashi (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8071,
+    "title": "Fate/kaleid liner Prisma☆Illya 2wei Herz! (Dub)",
+    "alternate_title": "Fate/Kaleid Liner Prisma Illya 2Wei Herz!, Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+    "url": "https://www.animegg.org/series/fatekaleid-liner-prisma-illya-2wei-herz-dub",
+    "episode_count": 10,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Comedy",
+      "Slice of Life"
+    ],
+    "description": "Based on the Fate/Kaleid Liner Prisma☆Illya 2wei! manga by Hiroshi Hiroyama, which is a spin-off of the Fate/stay night erotic visual novel by Type-Moon.",
+    "mal_id": 27525,
+    "mal_title": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+    "mal_url": "https://myanimelist.net/anime/27525",
+    "mal_matched_via": "Fate/kaleid liner Prisma☆Illya 2wei Herz! (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8075,
+    "title": "Cannon Busters (Dub)",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/cannon-busters-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "Explore the fantastic land of Gearbolt as we follow a motley crew of travelers on an unforgettable journey to reunite 2 best friends. S.A.M. is a high-end, friendship robot determined to reunite with...",
+    "mal_id": 40256,
+    "mal_title": "Cannon Busters",
+    "mal_url": "https://myanimelist.net/anime/40256",
+    "mal_matched_via": "Cannon Busters (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8077,
+    "title": "Hakkenden: Touhou Hakken Ibun 2nd Season (Dub)",
+    "alternate_title": "Hakkenden -Eight Dogs of the East- Season 2, 八犬伝 -東方八犬異聞- 2",
+    "url": "https://www.animegg.org/series/hakkenden-touhou-hakken-ibun-2nd-season-dub",
+    "episode_count": 13,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Shoujo",
+      "Supernatural"
+    ],
+    "description": "Second season of Hakkenden: Touhou Hakken Ibun.",
+    "mal_id": 18055,
+    "mal_title": "Hakkenden: Touhou Hakken Ibun 2nd Season",
+    "mal_url": "https://myanimelist.net/anime/18055",
+    "mal_matched_via": "Hakkenden: Touhou Hakken Ibun 2nd Season (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8080,
+    "title": "Date A Live II (Dub)",
+    "alternate_title": "デート・ア・ライブⅡ",
+    "url": "https://www.animegg.org/series/date-a-live-ii-dub",
+    "episode_count": 10,
+    "status": "Completed",
+    "genres": [
+      "Mecha",
+      "Sci-Fi",
+      "Comedy",
+      "School",
+      "Romance",
+      "Harem"
+    ],
+    "description": "Shido Itsuka, who used to be a normal high school student at Raizen High, meets the first Spirit, Tohka, and awakens his power to \"seal the Spirit's power\". Though they may be feared and hated beings...",
+    "mal_id": 17641,
+    "mal_title": "Date A Live: Date to Date",
+    "mal_url": "https://myanimelist.net/anime/17641",
+    "mal_matched_via": "Date A Live II (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8084,
+    "title": "Queen's Blade: Rebellion (Dub)",
+    "alternate_title": "クイーンズブレイド リベリオン",
+    "url": "https://www.animegg.org/series/queen-s-blade-rebellion-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Ecchi"
+    ],
+    "description": "Power corrupts, and it when it appears that the once noble Queen Claudette's ways have turned to oppression and heretical persecution, it's up to a new generation of warriors to step up to the plate...",
+    "mal_id": 11859,
+    "mal_title": "Queen's Blade: Rebellion",
+    "mal_url": "https://myanimelist.net/anime/11859",
+    "mal_matched_via": "Queen's Blade: Rebellion (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8088,
+    "title": "Ranma ½ OVA (Dub)",
+    "alternate_title": "Ranma 1/2 OVA, らんま1/2 OVA",
+    "url": "https://www.animegg.org/series/ranma-ova-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Martial Arts",
+      "Comedy",
+      "Shounen",
+      "Romance"
+    ],
+    "description": "Ranma Saotome continues his search for a way to become a normal teenage boy again. He gets into many hilarious situations involving the many girls in his life. One of the biggest challenges is...",
+    "mal_id": 1007,
+    "mal_title": "Ranma ½ OVA",
+    "mal_url": "https://myanimelist.net/anime/1007",
+    "mal_matched_via": "Ranma ½ OVA (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8094,
+    "title": "Jormungand (Dub)",
+    "alternate_title": "ヨルムンガンド",
+    "url": "https://www.animegg.org/series/jormungand-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Seinen"
+    ],
+    "description": "A ruthless arms dealer on a quixotic quest for world peace. A child soldier born into chaotic conflict. Their lives will intertwine as they journey together through the seedy underbelly of the world's...",
+    "mal_id": 12413,
+    "mal_title": "Jormungand",
+    "mal_url": "https://myanimelist.net/anime/12413",
+    "mal_matched_via": "Jormungand (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8096,
+    "title": "Hakuouki (Dub)",
+    "alternate_title": "Hakuoki ~Demon of the Fleeting Blossom~, 薄桜鬼, Hakuouki: Shinsengumi Kitan",
+    "url": "https://www.animegg.org/series/hakuouki-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Drama",
+      "Shoujo",
+      "Supernatural",
+      "Historical",
+      "Samurai"
+    ],
+    "description": "In 1860's Edo, Japan, 16-year-old Chizuru Yukimura lives a simple life as the daughter of a doctor. When her father's work takes him away from home and into the capital of Kyoto, Chizuru is left alone...",
+    "mal_id": 6895,
+    "mal_title": "Hakuouki",
+    "mal_url": "https://myanimelist.net/anime/6895",
+    "mal_matched_via": "Hakuouki (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8097,
+    "title": "X-Men (Dub)",
+    "alternate_title": "エックスメン",
+    "url": "https://www.animegg.org/series/x-men-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Drama",
+      "Super Power",
+      "Shounen"
+    ],
+    "description": "The X-Men are reunited following the death of a teammate, and are summoned by Charles Xavier to Japan following the abduction of Hisako Ichiki (Armor). There, they confront the U-Men, a lunatic cult...",
+    "mal_id": 36797,
+    "mal_title": "gdMen",
+    "mal_url": "https://myanimelist.net/anime/36797",
+    "mal_matched_via": "X-Men (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8099,
+    "title": "Fate/stay night: Unlimited Blade Works (TV) (Dub)",
+    "alternate_title": "Fate/stay night [Unlimited Blade Works]",
+    "url": "https://www.animegg.org/series/fatestay-night-unlimited-blade-works-tv-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Magic",
+      "Supernatural",
+      "Shounen"
+    ],
+    "description": "The Holy Grail War is a battle royale among seven magi who serve as Masters. Masters, through the use of the command seals they are given when they enter the war, command Heroic Spirits known as...",
+    "mal_id": 22297,
+    "mal_title": "Fate/stay night: Unlimited Blade Works",
+    "mal_url": "https://myanimelist.net/anime/22297",
+    "mal_matched_via": "Fate/stay night: Unlimited Blade Works (TV) (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
