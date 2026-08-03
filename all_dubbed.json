@@ -415,5 +415,47 @@
     "mal_url": "https://myanimelist.net/anime/736",
     "mal_matched_via": "Ore dake Level Up na Ken (Korean Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4362,
+    "title": "Haikyuu!! (Dub)",
+    "alternate_title": "Haikyu!!, High Kyuu!!, HQ!!, ハイキュー!!",
+    "url": "https://www.animegg.org/series/haikyuu-dub",
+    "episode_count": 25,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Shounen",
+      "School",
+      "Sports"
+    ],
+    "description": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a...",
+    "mal_id": 20583,
+    "mal_title": "Haikyuu!!",
+    "mal_url": "https://myanimelist.net/anime/20583",
+    "mal_matched_via": "Haikyuu!! (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4373,
+    "title": "Kage no Jitsuryokusha ni Naritakute! (Dub)",
+    "alternate_title": "The Eminence in Shadow, 陰の実力者になりたくて！",
+    "url": "https://www.animegg.org/series/kage-no-jitsuryokusha-ni-naritakute-dub",
+    "episode_count": 20,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Comedy",
+      "Reincarnation",
+      "Isekai"
+    ],
+    "description": "For as long as he can remember, Minoru Kagenou has been fixated on becoming as strong as possible, which has led him to undertake all kinds of rigorous training. This wish, however, does not stem from...",
+    "mal_id": 48316,
+    "mal_title": "Kage no Jitsuryokusha ni Naritakute!",
+    "mal_url": "https://myanimelist.net/anime/48316",
+    "mal_matched_via": "Kage no Jitsuryokusha ni Naritakute! (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
