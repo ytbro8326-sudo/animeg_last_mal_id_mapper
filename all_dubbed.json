@@ -226,5 +226,65 @@
     "mal_url": "https://myanimelist.net/anime/52308",
     "mal_matched_via": "Kanojo ga Koushaku-tei ni Itta Riyuu (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3421,
+    "title": "Dr. Stone: New World (Dub)",
+    "alternate_title": "Dr. Stone 3rd Season, Dr.STONE NEW WORLD",
+    "url": "https://www.animegg.org/series/dr-stone-new-world-dub",
+    "episode_count": 9,
+    "status": "Ongoing",
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "Third season of Dr. Stone.",
+    "mal_id": 48549,
+    "mal_title": "Dr. Stone: New World",
+    "mal_url": "https://myanimelist.net/anime/48549",
+    "mal_matched_via": "Dr. Stone: New World (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3432,
+    "title": "Kono Subarashii Sekai ni Bakuen wo! (Dub)",
+    "alternate_title": "KonoSuba: An Explosion on This Wonderful World!, この素晴らしい世界に爆焔を！",
+    "url": "https://www.animegg.org/series/kono-subarashii-sekai-ni-bakuen-wo-dub",
+    "episode_count": 9,
+    "status": "Ongoing",
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "description": "Crimson Magic Clan members Megumin and Yunyun are at the top of their class, but they still have a lot to learn. Yunyun's begun learning advanced magic, but Megumin has gone down a different path-the...",
+    "mal_id": 30831,
+    "mal_title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "mal_url": "https://myanimelist.net/anime/30831",
+    "mal_matched_via": "Kono Subarashii Sekai ni Bakuen wo! (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3448,
+    "title": "Fairy Tail (Dub)",
+    "alternate_title": "フェアリーテイル",
+    "url": "https://www.animegg.org/series/fairy-tail-dub",
+    "episode_count": 175,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Magic",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "A superficial but kind-hearted celestial mage, Lucy Heartfilia, joins a famous wizarding guild in Magnolia Town called Fairy Tail, where the members use their powers to earn rewards in exchange for...",
+    "mal_id": 35972,
+    "mal_title": "Fairy Tail: Final Series",
+    "mal_url": "https://myanimelist.net/anime/35972",
+    "mal_matched_via": "Fairy Tail (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
