@@ -1083,5 +1083,46 @@
     "mal_url": "https://myanimelist.net/anime/26055",
     "mal_matched_via": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 6029,
+    "title": "Rakudai Kishi no Cavalry (Dub)",
+    "alternate_title": "Chivalry Of A Failed Knight, A Tale Of Worst One, A Chivalry Of The Failed Knight, Rakudai Kishi No Eiyuutan, 落第騎士の英雄譚《キャバルリィ》",
+    "url": "https://www.animegg.org/series/rakudai-kishi-no-cavalry-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [
+      "School",
+      "Romance",
+      "Shoujo Ai"
+    ],
+    "description": "There are some humans capable of using magical power to manifest their souls as weapons and control forces beyond normal comprehension. These people are known as Blazers, and those who are recognized...",
+    "mal_id": 30296,
+    "mal_title": "Rakudai Kishi no Cavalry",
+    "mal_url": "https://myanimelist.net/anime/30296",
+    "mal_matched_via": "Rakudai Kishi no Cavalry (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 6038,
+    "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai (Dub)",
+    "alternate_title": "JoJo's Bizarre Adventure: Diamond is Unbreakable, ジョジョの奇妙な冒険 ダイヤモンドは砕けない",
+    "url": "https://www.animegg.org/series/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai-dub",
+    "episode_count": 39,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "The year is 1999. Morioh, a normally quiet and peaceful town, has recently become a hotbed of strange activity. Joutarou Kuujou, now a marine biologist, heads to the mysterious town to meet Jousuke...",
+    "mal_id": 31933,
+    "mal_title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "mal_url": "https://myanimelist.net/anime/31933",
+    "mal_matched_via": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
