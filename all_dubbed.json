@@ -87,5 +87,47 @@
     "mal_url": "https://myanimelist.net/anime/2363",
     "mal_matched_via": "Pokemon Side Stories",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 1935,
+    "title": "Hunter x Hunter 2011 (Dub)",
+    "alternate_title": "Hunter X Hunter (2011), HxH (2011), HUNTER×HUNTER (2011), Hunter X Hunter, Hunter X Hunter Dubbed",
+    "url": "https://www.animegg.org/series/hunter-x-hunter-2011-dub",
+    "episode_count": 148,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Super Power",
+      "Shounen",
+      "Dub"
+    ],
+    "description": "Hunter x Hunter (2011) is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories. Twelve...",
+    "mal_id": 11061,
+    "mal_title": "Hunter x Hunter (2011)",
+    "mal_url": "https://myanimelist.net/anime/11061",
+    "mal_matched_via": "Hunter X Hunter (2011)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 1938,
+    "title": "Pokemon (2019)(Dub)",
+    "alternate_title": "Pocket Monsters, Pokemon 2019, Pokémon, Pokemon Journeys, Pokémon Journeys: The Series, ポケットモンスター",
+    "url": "https://www.animegg.org/series/pokemon-2019-dub",
+    "episode_count": 144,
+    "status": "Ongoing",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Kids"
+    ],
+    "description": "On a new day in the Kanto region, Satoshi gets invited by Professor Yukinari Ookido over to Professor Sakuragi's lab-opening ceremony in Vermillion City. During the ceremonial speech, Professor...",
+    "mal_id": 40351,
+    "mal_title": "Pokemon (2019)",
+    "mal_url": "https://myanimelist.net/anime/40351",
+    "mal_matched_via": "Pokemon (2019)(Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
