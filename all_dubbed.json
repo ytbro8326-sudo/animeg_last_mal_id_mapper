@@ -322,5 +322,39 @@
     "mal_url": "https://myanimelist.net/anime/6798",
     "mal_matched_via": "Let's Go! Tamagotchi (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3640,
+    "title": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+    "alternate_title": "お願い!アインツベルン相談室",
+    "url": "https://www.animegg.org/series/fate-zero-onegai-einzbern-soudanshitsu",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Written by Kinoko Nasu and included in the BD Box I, this is a Q&A corner hosted by Irisviel and the mysterious girl dubbed Disciple no. Zero. These are specials that came wih the blu-ray for the...",
+    "mal_id": 13263,
+    "mal_title": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+    "mal_url": "https://myanimelist.net/anime/13263",
+    "mal_matched_via": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 3667,
+    "title": "In the Clear Moonlit Dusk",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/in-the-clear-moonlit-dusk",
+    "episode_count": 12,
+    "status": "Ongoing",
+    "genres": [
+      "Romance"
+    ],
+    "description": "Every time Yoi Takiguchi so much as lets out a sigh, her female classmates squeal in admiration and awe. She has been dubbed the school’s “prince” by virtue of her boyishly attractive appearance and...",
+    "mal_id": 61663,
+    "mal_title": "Uruwashi no Yoi no Tsuki",
+    "mal_url": "https://myanimelist.net/anime/61663",
+    "mal_matched_via": "In the Clear Moonlit Dusk (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
