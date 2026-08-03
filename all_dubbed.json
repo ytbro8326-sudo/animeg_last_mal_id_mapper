@@ -785,5 +785,29 @@
     "mal_url": "https://myanimelist.net/anime/3154",
     "mal_matched_via": "Gatchaman",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5437,
+    "title": "Cardcaptor Sakura (Dub)",
+    "alternate_title": "カードキャプターさくら",
+    "url": "https://www.animegg.org/series/cardcaptor-sakura-dub",
+    "episode_count": 70,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Magic",
+      "Shoujo",
+      "Comedy",
+      "School",
+      "Romance"
+    ],
+    "description": "One day, Kinomoto Sakura, a 4th grader stumbles upon the mysterious book of Clow. Upon opening it and reading the name of The Windy aloud, Sakura scatters the cards to the winds. Sakura is elected and...",
+    "mal_id": 33354,
+    "mal_title": "Cardcaptor Sakura: Clear Card-hen",
+    "mal_url": "https://myanimelist.net/anime/33354",
+    "mal_matched_via": "Cardcaptor Sakura (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
