@@ -686,5 +686,84 @@
     "mal_url": "https://myanimelist.net/anime/32807",
     "mal_matched_via": "Xiong Chumo (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5244,
+    "title": "Honey Lemon Soda",
+    "alternate_title": "ハニーレモンソーダ",
+    "url": "https://www.animegg.org/series/honey-lemon-soda",
+    "episode_count": 11,
+    "status": "Ongoing",
+    "genres": [
+      "Romance"
+    ],
+    "description": "For 15-year-old Uka Ishimori, middle school was the toughest experience she lived through. She was dubbed \"Rocky\" due to always freezing up in front of other people and was endlessly bullied as a...",
+    "mal_id": 58271,
+    "mal_title": "Honey Lemon Soda",
+    "mal_url": "https://myanimelist.net/anime/58271",
+    "mal_matched_via": "Honey Lemon Soda",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5250,
+    "title": "D.Gray-man (Dub)",
+    "alternate_title": "D. Gray-man, D. Grey-man, ディー・グレイマン",
+    "url": "https://www.animegg.org/series/dgray-man-dub",
+    "episode_count": 103,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Demons",
+      "Super Power",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "Losing a loved one is so painful that one may sometimes wish to be able to resurrect them—a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as \"Akuma,\" he...",
+    "mal_id": 1482,
+    "mal_title": "D.Gray-man",
+    "mal_url": "https://myanimelist.net/anime/1482",
+    "mal_matched_via": "D.Gray-man (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5254,
+    "title": "Vinland Saga (Dub)",
+    "alternate_title": "ヴィンランド・サガ",
+    "url": "https://www.animegg.org/series/vinland-saga-dub",
+    "episode_count": 24,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Seinen",
+      "Historical"
+    ],
+    "description": "Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It's said to be warm and fertile, a place where there would be no...",
+    "mal_id": 37521,
+    "mal_title": "Vinland Saga",
+    "mal_url": "https://myanimelist.net/anime/37521",
+    "mal_matched_via": "Vinland Saga (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 5263,
+    "title": "Inazuma Eleven (Dub)",
+    "alternate_title": "イナズマイレブン",
+    "url": "https://www.animegg.org/series/inazuma-eleven-dub",
+    "episode_count": 66,
+    "status": "Completed",
+    "genres": [
+      "Super Power",
+      "Shounen",
+      "Sports"
+    ],
+    "description": "While other schools in Japan compete for the title of being the best soccer team in the country, Raimon Middle School's soccer club, Inazuma Eleven, struggles to rise from the verge of being disbanded...",
+    "mal_id": 9032,
+    "mal_title": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
+    "mal_url": "https://myanimelist.net/anime/9032",
+    "mal_matched_via": "Inazuma Eleven (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
