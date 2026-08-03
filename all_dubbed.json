@@ -67,5 +67,25 @@
     "mal_url": "https://myanimelist.net/anime/323",
     "mal_matched_via": "Mousou Dairinin",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 1471,
+    "title": "Pokemon Side Stories",
+    "alternate_title": "Pokémon Chronicles, ポケットモンスター サイドストーリー",
+    "url": "https://www.animegg.org/series/pokemon-chronicles",
+    "episode_count": 22,
+    "status": "Completed",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Kids"
+    ],
+    "description": "Pokémon Chronicles is a TV series comprised of the English-dubbed versions of a number of Pokémon TV specials. Many of the episodes are from the Weekly Pokémon Broadcasting Station show in Japan, but...",
+    "mal_id": 2363,
+    "mal_title": "Pokemon Side Stories",
+    "mal_url": "https://myanimelist.net/anime/2363",
+    "mal_matched_via": "Pokemon Side Stories",
+    "sub_dub_status": "dubbed"
   }
 ]
