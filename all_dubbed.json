@@ -536,5 +536,20 @@
     "mal_url": "https://myanimelist.net/anime/31240",
     "mal_matched_via": "Re:Zero kara Hajimeru Isekai Seikatsu (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4799,
+    "title": "Cardfight!! Vanguard (Dub)",
+    "alternate_title": "カードファイト!! ヴァンガード",
+    "url": "https://www.animegg.org/series/cardfight-vanguard-dub",
+    "episode_count": 163,
+    "status": "Completed",
+    "genres": [],
+    "description": "Cardfight!! Vanguard features a world where the game Cardfight!! Vanguard is becoming the latest craze among trading card games, becoming a part of everyday life for people all over the world. The...",
+    "mal_id": 37476,
+    "mal_title": "Cardfight!! Vanguard (2018)",
+    "mal_url": "https://myanimelist.net/anime/37476",
+    "mal_matched_via": "Cardfight!! Vanguard (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
