@@ -11332,5 +11332,120 @@
     "mal_url": "https://myanimelist.net/anime/513",
     "mal_matched_via": "Tenkuu no Shiro Laputa",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8807,
+    "title": "Darker than Black 2: Gemini of the Meteor OVA (Dub)",
+    "alternate_title": "Darker than Black: Gemini of the Meteor, DARKER THAN BLACK 流星の双子",
+    "url": "https://www.animegg.org/series/darker-than-black-2-gemini-of-the-meteor-ova-dub",
+    "episode_count": 4,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Super Power",
+      "Mystery"
+    ],
+    "description": "Tells the story of what happened to Yin and Hei between the first and second series.",
+    "mal_id": 2025,
+    "mal_title": "Darker than Black: Kuro no Keiyakusha",
+    "mal_url": "https://myanimelist.net/anime/2025",
+    "mal_matched_via": "Darker than Black 2: Gemini of the Meteor OVA (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8825,
+    "title": "Chain Chronicle: Haecceitas no Hikari (Dub)",
+    "alternate_title": "Chain Chronicle: The Light of Haecceitas, チェインクロニクル〜ヘクセイタスの閃（ひかり）〜",
+    "url": "https://www.animegg.org/series/chain-chronicle-haecceitas-no-hikari-dub",
+    "episode_count": 12,
+    "status": "Completed",
+    "genres": [],
+    "description": "A TV anime adaptation of the mobile game Chain Chronicle.",
+    "mal_id": 28833,
+    "mal_title": "Chain Chronicle: Haecceitas no Hikari",
+    "mal_url": "https://myanimelist.net/anime/28833",
+    "mal_matched_via": "Chain Chronicle: Haecceitas no Hikari (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8835,
+    "title": "Macross Plus (Dub)",
+    "alternate_title": "マクロスプラス",
+    "url": "https://www.animegg.org/series/macross-plus-dub",
+    "episode_count": 4,
+    "status": "Completed",
+    "genres": [
+      "Mecha",
+      "Sci-Fi",
+      "Drama",
+      "Military",
+      "Shounen",
+      "Space"
+    ],
+    "description": "The year is 2040 and the galaxy is flourishing with several colonies and advanced technology. AI is near perfection and the current top idol is the near-completed Virturoid Idol Sharon Apple. All that...",
+    "mal_id": 1088,
+    "mal_title": "Macross",
+    "mal_url": "https://myanimelist.net/anime/1088",
+    "mal_matched_via": "Macross Plus (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8861,
+    "title": "Ultraman Season 2 (Dub)",
+    "alternate_title": "",
+    "url": "https://www.animegg.org/series/ultraman-season-2-dub",
+    "episode_count": 6,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Super Power",
+      "Seinen"
+    ],
+    "description": "Second season of Ultraman.",
+    "mal_id": 37806,
+    "mal_title": "Gunjou no Magmell",
+    "mal_url": "https://myanimelist.net/anime/37806",
+    "mal_matched_via": "Ultraman Season 2 (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8873,
+    "title": "Perfect Blue (Dub)",
+    "alternate_title": "パーフェクト・ブルー",
+    "url": "https://www.animegg.org/series/perfect-blue-dub",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Psychological"
+    ],
+    "description": "Mima Kirigoe, a member of a pop-idol group called \"CHAM!\", decides to quit singing to pursue a career as an actress. Some of her fans are displeased with this decision though, particularly a stalker...",
+    "mal_id": 28621,
+    "mal_title": "Subete ga F ni Naru",
+    "mal_url": "https://myanimelist.net/anime/28621",
+    "mal_matched_via": "Perfect Blue (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 8896,
+    "title": "Violet Evergarden Movie (Dub)",
+    "alternate_title": "劇場版 ヴァイオレット・エヴァーガーデン",
+    "url": "https://www.animegg.org/series/violet-evergarden-movie-dub",
+    "episode_count": 1,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "description": "Several years have passed since the end of The Great War. As the radio tower in Leidenschaftlich continues to be built, telephones will soon become more relevant, leading to a decline in demand for...",
+    "mal_id": 37987,
+    "mal_title": "Violet Evergarden Movie",
+    "mal_url": "https://myanimelist.net/anime/37987",
+    "mal_matched_via": "Violet Evergarden Movie (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
