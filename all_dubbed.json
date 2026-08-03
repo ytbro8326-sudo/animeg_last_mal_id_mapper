@@ -551,5 +551,47 @@
     "mal_url": "https://myanimelist.net/anime/37476",
     "mal_matched_via": "Cardfight!! Vanguard (Dub) (fallback: top result)",
     "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4850,
+    "title": "Fairy Tail (2014) (Dub)",
+    "alternate_title": "フェアリーテイル",
+    "url": "https://www.animegg.org/series/fairy-tail-2014-dub",
+    "episode_count": 102,
+    "status": "Completed",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Magic",
+      "Comedy",
+      "Shounen"
+    ],
+    "description": "Magic is what makes the fictional world of Earth-land go 'round, and its many mage guilds work together—or sometimes against one another—to bring balance to that world. Each guild flaunts unique...",
+    "mal_id": 22043,
+    "mal_title": "Fairy Tail (2014)",
+    "mal_url": "https://myanimelist.net/anime/22043",
+    "mal_matched_via": "Fairy Tail (2014) (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
+  },
+  {
+    "serial_no": 4887,
+    "title": "Hajime no Ippo (Dub)",
+    "alternate_title": "Fighting Spirit, はじめの一歩 THE FIGHTING!",
+    "url": "https://www.animegg.org/series/hajime-no-ippo-dub",
+    "episode_count": 75,
+    "status": "Completed",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Shounen",
+      "Sports"
+    ],
+    "description": "Makunouchi Ippo has been bullied his entire life. Constantly running errands and being beaten up by his classmates, Ippo has always dreamed of changing himself, but never has the passion to act upon...",
+    "mal_id": 19647,
+    "mal_title": "Hajime no Ippo: Rising",
+    "mal_url": "https://myanimelist.net/anime/19647",
+    "mal_matched_via": "Hajime no Ippo (Dub) (fallback: top result)",
+    "sub_dub_status": "dubbed"
   }
 ]
